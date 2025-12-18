@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+xhtml2pdf
+fpdf2
+reportlab

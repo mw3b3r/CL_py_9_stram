@@ -1,0 +1,1141 @@
+OrderID,CustomerID,ProductID,Quantity,OrderDate,product_id,nazev_knihy,kategorie,cena,mesto,vek,pohlavi,Celkova_Cena
+b_001,1,21,1,2025-03-06,21,Jak vyzrát na stres,Učebnice,397,Ostrava,43,Žena,397
+b_001,1,51,1,2025-03-14,51,Píseň kouzel,Fantasy,354,Ostrava,43,Žena,354
+b_001,1,79,1,2025-03-09,79,Tajemství dětské knihy,Dětská,354,Ostrava,43,Žena,354
+b_001,1,95,1,2025-03-14,95,Jak vyzrát na stres,Učebnice,258,Ostrava,43,Žena,258
+b_001,1,39,1,2025-03-10,39,Ticho před smrtí,Detektivka,374,Ostrava,43,Žena,374
+b_002,2,65,1,2025-03-16,65,Jak pejsek zachránil svět,Dětská,446,Plzeň,51,Žena,446
+b_002,2,66,1,2025-03-26,66,Krvavý měsíc,Detektivka,654,Plzeň,51,Žena,654
+b_002,2,69,1,2025-03-03,69,Nečekaný osud,Román,298,Plzeň,51,Žena,298
+b_002,2,63,1,2025-03-12,63,Děti z planety Alfa,Dětská,684,Plzeň,51,Žena,684
+b_002,2,91,1,2025-03-09,91,Učebnice klidu,Učebnice,456,Plzeň,51,Žena,456
+b_003,3,61,1,2025-03-31,61,Magie v žilách,Fantasy,365,Praha,33,Muž,365
+b_003,3,3,1,2025-03-08,3,Cesta za láskou,Román,289,Praha,33,Muž,289
+b_003,3,48,1,2025-03-24,48,Láska na druhý pokus,Román,248,Praha,33,Muž,248
+b_003,3,43,1,2025-03-21,43,Jak vyzrát na stres,Učebnice,359,Praha,33,Muž,359
+b_003,3,87,1,2025-03-16,87,Osudová přitažlivost,Román,291,Praha,33,Muž,291
+b_004,4,54,1,2025-03-20,54,Draci severu,Fantasy,541,Praha,39,Muž,541
+b_004,4,75,1,2025-03-20,75,Vrah beze jména,Detektivka,587,Praha,39,Muž,587
+b_004,4,40,1,2025-03-07,40,Vražda na kolejích,Detektivka,251,Praha,39,Muž,251
+b_005,5,77,1,2025-03-15,77,Dobrodružství se zvířátky,Dětská,666,Liberec,53,Muž,666
+b_005,5,61,1,2025-03-04,61,Magie v žilách,Fantasy,365,Liberec,53,Muž,365
+b_005,5,34,1,2025-03-05,34,Temnota u jezera,Detektivka,398,Liberec,53,Muž,398
+b_006,6,93,1,2025-03-10,93,Jak přežít pondělí,Učebnice,359,Liberec,32,Muž,359
+b_006,6,7,1,2025-03-01,7,Láska na druhý pokus,Román,234,Liberec,32,Muž,234
+b_006,6,75,1,2025-03-31,75,Vrah beze jména,Detektivka,587,Liberec,32,Muž,587
+b_006,6,62,1,2025-03-13,62,O statečném zajíčkovi,Dětská,155,Liberec,32,Muž,155
+b_007,7,68,1,2025-03-11,68,Osudová přitažlivost,Román,298,Praha,63,Muž,298
+b_007,7,81,1,2025-03-27,81,Nečekaný osud,Román,644,Praha,63,Muž,644
+b_007,7,93,1,2025-03-20,93,Jak přežít pondělí,Učebnice,359,Praha,63,Muž,359
+b_007,7,80,1,2025-03-13,80,Stín draka,Fantasy,259,Praha,63,Muž,259
+b_008,8,19,1,2025-03-26,19,Tajemství prstenu,Fantasy,298,Brno,22,Muž,298
+b_008,8,88,1,2025-03-28,88,Stín draka,Fantasy,398,Brno,22,Muž,398
+b_008,8,32,1,2025-03-11,32,Krvavé léto,Detektivka,254,Brno,22,Muž,254
+b_008,8,5,1,2025-03-15,5,Kouzla a meče,Fantasy,398,Brno,22,Muž,398
+b_008,8,74,1,2025-03-11,74,Kouzelná říše,Fantasy,198,Brno,22,Muž,198
+b_008,8,90,1,2025-03-14,90,Děti z planety Alfa,Dětská,251,Brno,22,Muž,251
+b_009,9,25,1,2025-03-27,25,Magie v žilách,Fantasy,587,Hradec Králové,39,Muž,587
+b_009,9,3,1,2025-03-27,3,Cesta za láskou,Román,289,Hradec Králové,39,Muž,289
+b_009,9,57,1,2025-03-28,57,Pohádky pod peřinu,Dětská,234,Hradec Králové,39,Muž,234
+b_010,10,54,1,2025-03-21,54,Draci severu,Fantasy,541,Liberec,33,Žena,541
+b_010,10,20,1,2025-03-20,20,Kouzelná říše,Fantasy,251,Liberec,33,Žena,251
+b_010,10,53,1,2025-03-05,53,Oheň a drak,Fantasy,289,Liberec,33,Žena,289
+b_010,10,89,1,2025-03-10,89,Draci severu,Fantasy,374,Liberec,33,Žena,374
+b_010,10,27,1,2025-03-11,27,Temnota u jezera,Detektivka,666,Liberec,33,Žena,666
+b_011,11,65,1,2025-03-20,65,Jak pejsek zachránil svět,Dětská,446,Olomouc,49,Muž,446
+b_011,11,100,1,2025-03-31,100,Vražda na kolejích,Detektivka,263,Olomouc,49,Muž,263
+b_011,11,79,1,2025-03-23,79,Tajemství dětské knihy,Dětská,354,Olomouc,49,Muž,354
+b_011,11,61,1,2025-03-07,61,Magie v žilách,Fantasy,365,Olomouc,49,Muž,365
+b_011,11,95,1,2025-03-16,95,Jak vyzrát na stres,Učebnice,258,Olomouc,49,Muž,258
+b_011,11,94,1,2025-03-11,94,Smrt v horách,Detektivka,659,Olomouc,49,Muž,659
+b_012,12,91,1,2025-03-06,91,Učebnice klidu,Učebnice,456,Liberec,26,Žena,456
+b_012,12,18,1,2025-03-31,18,Magie v žilách,Fantasy,298,Liberec,26,Žena,298
+b_012,12,67,1,2025-03-13,67,Jak přežít pondělí,Učebnice,365,Liberec,26,Žena,365
+b_013,13,72,1,2025-03-31,72,Legenda o draku,Fantasy,366,Brno,68,Žena,366
+b_013,13,42,1,2025-03-11,42,Jak vyzrát na stres,Učebnice,564,Brno,68,Žena,564
+b_013,13,85,1,2025-03-10,85,Legenda o draku,Fantasy,254,Brno,68,Žena,254
+b_013,13,62,1,2025-03-24,62,O statečném zajíčkovi,Dětská,155,Brno,68,Žena,155
+b_014,14,41,1,2025-03-23,41,Legenda o draku,Fantasy,456,Hradec Králové,44,Muž,456
+b_014,14,23,1,2025-03-21,23,Nečekaný osud,Román,421,Hradec Králové,44,Muž,421
+b_014,14,59,1,2025-03-16,59,Záhada nočního vlaku,Detektivka,298,Hradec Králové,44,Muž,298
+b_014,14,69,1,2025-03-31,69,Nečekaný osud,Román,298,Hradec Králové,44,Muž,298
+b_014,14,44,1,2025-03-19,44,Oheň a drak,Fantasy,659,Hradec Králové,44,Muž,659
+b_014,14,70,1,2025-03-26,70,Jak ušetřit čas,Učebnice,251,Hradec Králové,44,Muž,251
+b_015,15,87,1,2025-03-08,87,Osudová přitažlivost,Román,291,Praha,24,Žena,291
+b_015,15,99,1,2025-03-11,99,Krvavé léto,Detektivka,258,Praha,24,Žena,258
+b_015,15,93,1,2025-03-13,93,Jak přežít pondělí,Učebnice,359,Praha,24,Žena,359
+b_015,15,88,1,2025-03-09,88,Stín draka,Fantasy,398,Praha,24,Žena,398
+b_015,15,83,1,2025-03-27,83,Vražda na kolejích,Detektivka,354,Praha,24,Žena,354
+b_016,16,79,1,2025-03-26,79,Tajemství dětské knihy,Dětská,354,Ostrava,45,Žena,354
+b_016,16,62,1,2025-03-13,62,O statečném zajíčkovi,Dětská,155,Ostrava,45,Žena,155
+b_016,16,25,1,2025-03-12,25,Magie v žilách,Fantasy,587,Ostrava,45,Žena,587
+b_016,16,32,1,2025-03-04,32,Krvavé léto,Detektivka,254,Ostrava,45,Žena,254
+b_016,16,36,1,2025-03-30,36,Prsten věčnosti,Fantasy,300,Ostrava,45,Žena,300
+b_017,17,29,1,2025-03-19,29,O statečném zajíčkovi,Dětská,354,Plzeň,64,Muž,354
+b_017,17,39,1,2025-03-07,39,Ticho před smrtí,Detektivka,374,Plzeň,64,Muž,374
+b_017,17,99,1,2025-03-19,99,Krvavé léto,Detektivka,258,Plzeň,64,Muž,258
+b_017,17,37,1,2025-03-18,37,Létající kolo,Dětská,291,Plzeň,64,Muž,291
+b_017,17,91,1,2025-03-06,91,Učebnice klidu,Učebnice,456,Plzeň,64,Muž,456
+b_018,18,89,1,2025-03-22,89,Draci severu,Fantasy,374,Olomouc,59,Muž,374
+b_018,18,91,1,2025-03-25,91,Učebnice klidu,Učebnice,456,Olomouc,59,Muž,456
+b_018,18,63,1,2025-03-18,63,Děti z planety Alfa,Dětská,684,Olomouc,59,Muž,684
+b_018,18,41,1,2025-03-01,41,Legenda o draku,Fantasy,456,Olomouc,59,Muž,456
+b_019,19,45,1,2025-03-31,45,Zlomené srdce,Román,258,Praha,43,Žena,258
+b_019,19,72,1,2025-03-24,72,Legenda o draku,Fantasy,366,Praha,43,Žena,366
+b_019,19,93,1,2025-03-15,93,Jak přežít pondělí,Učebnice,359,Praha,43,Žena,359
+b_019,19,36,1,2025-03-31,36,Prsten věčnosti,Fantasy,300,Praha,43,Žena,300
+b_019,19,37,1,2025-03-23,37,Létající kolo,Dětská,291,Praha,43,Žena,291
+b_019,19,16,1,2025-03-07,16,Temnota u jezera,Detektivka,654,Praha,43,Žena,654
+b_020,20,51,1,2025-03-15,51,Píseň kouzel,Fantasy,354,Hradec Králové,24,Muž,354
+b_020,20,45,1,2025-03-26,45,Zlomené srdce,Román,258,Hradec Králové,24,Muž,258
+b_020,20,99,1,2025-03-10,99,Krvavé léto,Detektivka,258,Hradec Králové,24,Muž,258
+b_020,20,19,1,2025-03-27,19,Tajemství prstenu,Fantasy,298,Hradec Králové,24,Muž,298
+b_020,20,38,1,2025-03-23,38,Kouzelná říše,Fantasy,398,Hradec Králové,24,Muž,398
+b_020,20,6,1,2025-03-03,6,Temnota u jezera,Detektivka,487,Hradec Králové,24,Muž,487
+b_021,21,92,1,2025-03-27,92,Dobrodružství se zvířátky,Dětská,564,Brno,30,Žena,564
+b_021,21,11,1,2025-03-28,11,Nečekaný osud,Román,365,Brno,30,Žena,365
+b_021,21,45,1,2025-03-26,45,Zlomené srdce,Román,258,Brno,30,Žena,258
+b_021,21,57,1,2025-03-26,57,Pohádky pod peřinu,Dětská,234,Brno,30,Žena,234
+b_021,21,84,1,2025-03-14,84,Stín draka,Fantasy,398,Brno,30,Žena,398
+b_022,22,96,1,2025-03-22,96,Láska a víno,Román,357,Brno,45,Muž,357
+b_022,22,62,1,2025-03-16,62,O statečném zajíčkovi,Dětská,155,Brno,45,Muž,155
+b_022,22,28,1,2025-03-05,28,Létající kolo,Dětská,655,Brno,45,Muž,655
+b_022,22,26,1,2025-03-21,26,Píseň kouzel,Fantasy,555,Brno,45,Muž,555
+b_022,22,69,1,2025-03-10,69,Nečekaný osud,Román,298,Brno,45,Muž,298
+b_023,23,72,1,2025-03-08,72,Legenda o draku,Fantasy,366,Ostrava,47,Muž,366
+b_023,23,90,1,2025-03-09,90,Děti z planety Alfa,Dětská,251,Ostrava,47,Muž,251
+b_023,23,35,1,2025-03-22,35,Smrt v horách,Detektivka,254,Ostrava,47,Muž,254
+b_023,23,18,1,2025-03-05,18,Magie v žilách,Fantasy,298,Ostrava,47,Muž,298
+b_023,23,14,1,2025-03-23,14,Kouzla a meče,Fantasy,355,Ostrava,47,Muž,355
+b_024,24,32,1,2025-03-14,32,Krvavé léto,Detektivka,254,Hradec Králové,22,Žena,254
+b_024,24,7,1,2025-03-26,7,Láska na druhý pokus,Román,234,Hradec Králové,22,Žena,234
+b_024,24,86,1,2025-03-13,86,Cesta za láskou,Román,300,Hradec Králové,22,Žena,300
+b_024,24,68,1,2025-03-03,68,Osudová přitažlivost,Román,298,Hradec Králové,22,Žena,298
+b_025,25,82,1,2025-03-15,82,Záhada nočního vlaku,Detektivka,254,Hradec Králové,53,Muž,254
+b_025,25,30,1,2025-03-20,30,Pohádky pod peřinu,Dětská,259,Hradec Králové,53,Muž,259
+b_025,25,7,1,2025-03-16,7,Láska na druhý pokus,Román,234,Hradec Králové,53,Muž,234
+b_025,25,13,1,2025-03-19,13,Tajemství dětské knihy,Dětská,684,Hradec Králové,53,Muž,684
+b_026,26,43,1,2025-03-13,43,Jak vyzrát na stres,Učebnice,359,Praha,59,Muž,359
+b_026,26,92,1,2025-03-18,92,Dobrodružství se zvířátky,Dětská,564,Praha,59,Muž,564
+b_026,26,61,1,2025-03-17,61,Magie v žilách,Fantasy,365,Praha,59,Muž,365
+b_026,26,13,1,2025-03-30,13,Tajemství dětské knihy,Dětská,684,Praha,59,Muž,684
+b_026,26,88,1,2025-03-30,88,Stín draka,Fantasy,398,Praha,59,Muž,398
+b_026,26,99,1,2025-03-28,99,Krvavé léto,Detektivka,258,Praha,59,Muž,258
+b_027,27,1,1,2025-03-23,1,Krvavý měsíc,Detektivka,354,Praha,66,Muž,354
+b_027,27,71,1,2025-03-14,71,Tajemství dětské knihy,Dětská,397,Praha,66,Muž,397
+b_027,27,21,1,2025-03-18,21,Jak vyzrát na stres,Učebnice,397,Praha,66,Muž,397
+b_027,27,53,1,2025-03-02,53,Oheň a drak,Fantasy,289,Praha,66,Muž,289
+b_028,28,62,1,2025-03-26,62,O statečném zajíčkovi,Dětská,155,Brno,44,Žena,155
+b_028,28,84,1,2025-03-31,84,Stín draka,Fantasy,398,Brno,44,Žena,398
+b_028,28,26,1,2025-03-12,26,Píseň kouzel,Fantasy,555,Brno,44,Žena,555
+b_028,28,97,1,2025-03-23,97,Malý drak a moře,Dětská,367,Brno,44,Žena,367
+b_028,28,37,1,2025-03-29,37,Létající kolo,Dětská,291,Brno,44,Žena,291
+b_028,28,42,1,2025-03-26,42,Jak vyzrát na stres,Učebnice,564,Brno,44,Žena,564
+b_029,29,83,1,2025-03-18,83,Vražda na kolejích,Detektivka,354,Plzeň,31,Žena,354
+b_029,29,8,1,2025-03-20,8,Srdce v plamenech,Román,289,Plzeň,31,Žena,289
+b_029,29,99,1,2025-03-21,99,Krvavé léto,Detektivka,258,Plzeň,31,Žena,258
+b_029,29,12,1,2025-03-30,12,Kouzelná říše,Fantasy,155,Plzeň,31,Žena,155
+b_029,29,84,1,2025-03-03,84,Stín draka,Fantasy,398,Plzeň,31,Žena,398
+b_030,30,69,1,2025-03-04,69,Nečekaný osud,Román,298,Praha,28,Žena,298
+b_030,30,95,1,2025-03-25,95,Jak vyzrát na stres,Učebnice,258,Praha,28,Žena,258
+b_030,30,93,1,2025-03-08,93,Jak přežít pondělí,Učebnice,359,Praha,28,Žena,359
+b_030,30,5,1,2025-03-22,5,Kouzla a meče,Fantasy,398,Praha,28,Žena,398
+b_031,31,54,1,2025-03-22,54,Draci severu,Fantasy,541,Praha,42,Žena,541
+b_031,31,23,1,2025-03-12,23,Nečekaný osud,Román,421,Praha,42,Žena,421
+b_031,31,5,1,2025-03-06,5,Kouzla a meče,Fantasy,398,Praha,42,Žena,398
+b_031,31,51,1,2025-03-21,51,Píseň kouzel,Fantasy,354,Praha,42,Žena,354
+b_032,32,24,1,2025-03-20,24,Oheň a drak,Fantasy,198,Hradec Králové,68,Žena,198
+b_032,32,96,1,2025-03-02,96,Láska a víno,Román,357,Hradec Králové,68,Žena,357
+b_032,32,38,1,2025-03-19,38,Kouzelná říše,Fantasy,398,Hradec Králové,68,Žena,398
+b_032,32,5,1,2025-03-21,5,Kouzla a meče,Fantasy,398,Hradec Králové,68,Žena,398
+b_032,32,2,1,2025-03-22,2,Stín draka,Fantasy,264,Hradec Králové,68,Žena,264
+b_032,32,39,1,2025-03-21,39,Ticho před smrtí,Detektivka,374,Hradec Králové,68,Žena,374
+b_033,33,43,1,2025-03-13,43,Jak vyzrát na stres,Učebnice,359,Ostrava,45,Žena,359
+b_033,33,37,1,2025-03-31,37,Létající kolo,Dětská,291,Ostrava,45,Žena,291
+b_033,33,59,1,2025-03-25,59,Záhada nočního vlaku,Detektivka,298,Ostrava,45,Žena,298
+b_034,34,18,1,2025-03-11,18,Magie v žilách,Fantasy,298,Brno,30,Žena,298
+b_034,34,65,1,2025-03-31,65,Jak pejsek zachránil svět,Dětská,446,Brno,30,Žena,446
+b_034,34,60,1,2025-03-26,60,Princezna a mrkev,Dětská,698,Brno,30,Žena,698
+b_034,34,35,1,2025-03-14,35,Smrt v horách,Detektivka,254,Brno,30,Žena,254
+b_034,34,25,1,2025-03-04,25,Magie v žilách,Fantasy,587,Brno,30,Žena,587
+b_034,34,15,1,2025-03-01,15,Ticho před smrtí,Detektivka,446,Brno,30,Žena,446
+b_035,35,21,1,2025-03-04,21,Jak vyzrát na stres,Učebnice,397,Brno,21,Muž,397
+b_035,35,94,1,2025-03-09,94,Smrt v horách,Detektivka,659,Brno,21,Muž,659
+b_035,35,59,1,2025-03-08,59,Záhada nočního vlaku,Detektivka,298,Brno,21,Muž,298
+b_035,35,83,1,2025-03-17,83,Vražda na kolejích,Detektivka,354,Brno,21,Muž,354
+b_035,35,33,1,2025-03-24,33,Srdce v zimě,Román,354,Brno,21,Muž,354
+b_036,36,2,1,2025-03-17,2,Stín draka,Fantasy,264,Olomouc,38,Muž,264
+b_036,36,95,1,2025-03-18,95,Jak vyzrát na stres,Učebnice,258,Olomouc,38,Muž,258
+b_036,36,44,1,2025-03-19,44,Oheň a drak,Fantasy,659,Olomouc,38,Muž,659
+b_036,36,38,1,2025-03-23,38,Kouzelná říše,Fantasy,398,Olomouc,38,Muž,398
+b_037,37,23,1,2025-03-19,23,Nečekaný osud,Román,421,Praha,55,Žena,421
+b_037,37,79,1,2025-03-08,79,Tajemství dětské knihy,Dětská,354,Praha,55,Žena,354
+b_037,37,82,1,2025-03-15,82,Záhada nočního vlaku,Detektivka,254,Praha,55,Žena,254
+b_037,37,52,1,2025-03-12,52,Létající kolo,Dětská,264,Praha,55,Žena,264
+b_038,38,66,1,2025-03-13,66,Krvavý měsíc,Detektivka,654,Liberec,51,Muž,654
+b_038,38,42,1,2025-03-15,42,Jak vyzrát na stres,Učebnice,564,Liberec,51,Muž,564
+b_038,38,12,1,2025-03-25,12,Kouzelná říše,Fantasy,155,Liberec,51,Muž,155
+b_038,38,52,1,2025-03-22,52,Létající kolo,Dětská,264,Liberec,51,Muž,264
+b_038,38,86,1,2025-03-19,86,Cesta za láskou,Román,300,Liberec,51,Muž,300
+b_038,38,13,1,2025-03-23,13,Tajemství dětské knihy,Dětská,684,Liberec,51,Muž,684
+b_039,39,18,1,2025-03-17,18,Magie v žilách,Fantasy,298,Praha,50,Muž,298
+b_039,39,62,1,2025-03-05,62,O statečném zajíčkovi,Dětská,155,Praha,50,Muž,155
+b_039,39,42,1,2025-03-12,42,Jak vyzrát na stres,Učebnice,564,Praha,50,Muž,564
+b_039,39,32,1,2025-03-01,32,Krvavé léto,Detektivka,254,Praha,50,Muž,254
+b_040,40,34,1,2025-03-16,34,Temnota u jezera,Detektivka,398,Hradec Králové,29,Muž,398
+b_040,40,50,1,2025-03-04,50,Jak funguje internet,Učebnice,263,Hradec Králové,29,Muž,263
+b_040,40,31,1,2025-03-10,31,Draci severu,Fantasy,644,Hradec Králové,29,Muž,644
+b_041,41,97,1,2025-03-14,97,Malý drak a moře,Dětská,367,Liberec,22,Muž,367
+b_041,41,35,1,2025-03-30,35,Smrt v horách,Detektivka,254,Liberec,22,Muž,254
+b_041,41,43,1,2025-03-31,43,Jak vyzrát na stres,Učebnice,359,Liberec,22,Muž,359
+b_041,41,39,1,2025-03-03,39,Ticho před smrtí,Detektivka,374,Liberec,22,Muž,374
+b_041,41,75,1,2025-03-04,75,Vrah beze jména,Detektivka,587,Liberec,22,Muž,587
+b_041,41,93,1,2025-03-27,93,Jak přežít pondělí,Učebnice,359,Liberec,22,Muž,359
+b_042,42,34,1,2025-03-31,34,Temnota u jezera,Detektivka,398,Plzeň,25,Muž,398
+b_042,42,84,1,2025-03-24,84,Stín draka,Fantasy,398,Plzeň,25,Muž,398
+b_042,42,47,1,2025-03-05,47,Jak pochopit data,Učebnice,367,Plzeň,25,Muž,367
+b_043,43,8,1,2025-03-12,8,Srdce v plamenech,Román,289,Liberec,56,Muž,289
+b_043,43,86,1,2025-03-10,86,Cesta za láskou,Román,300,Liberec,56,Muž,300
+b_043,43,16,1,2025-03-11,16,Temnota u jezera,Detektivka,654,Liberec,56,Muž,654
+b_043,43,60,1,2025-03-15,60,Princezna a mrkev,Dětská,698,Liberec,56,Muž,698
+b_044,44,21,1,2025-03-26,21,Jak vyzrát na stres,Učebnice,397,Liberec,23,Žena,397
+b_044,44,52,1,2025-03-07,52,Létající kolo,Dětská,264,Liberec,23,Žena,264
+b_044,44,88,1,2025-03-17,88,Stín draka,Fantasy,398,Liberec,23,Žena,398
+b_044,44,65,1,2025-03-16,65,Jak pejsek zachránil svět,Dětská,446,Liberec,23,Žena,446
+b_044,44,91,1,2025-03-12,91,Učebnice klidu,Učebnice,456,Liberec,23,Žena,456
+b_045,45,89,1,2025-03-16,89,Draci severu,Fantasy,374,Olomouc,55,Žena,374
+b_045,45,16,1,2025-03-04,16,Temnota u jezera,Detektivka,654,Olomouc,55,Žena,654
+b_045,45,82,1,2025-03-15,82,Záhada nočního vlaku,Detektivka,254,Olomouc,55,Žena,254
+b_045,45,38,1,2025-03-24,38,Kouzelná říše,Fantasy,398,Olomouc,55,Žena,398
+b_045,45,48,1,2025-03-23,48,Láska na druhý pokus,Román,248,Olomouc,55,Žena,248
+b_046,46,29,1,2025-03-15,29,O statečném zajíčkovi,Dětská,354,Ostrava,31,Žena,354
+b_046,46,18,1,2025-03-11,18,Magie v žilách,Fantasy,298,Ostrava,31,Žena,298
+b_046,46,62,1,2025-03-03,62,O statečném zajíčkovi,Dětská,155,Ostrava,31,Žena,155
+b_046,46,20,1,2025-03-10,20,Kouzelná říše,Fantasy,251,Ostrava,31,Žena,251
+b_047,47,96,1,2025-03-02,96,Láska a víno,Román,357,Brno,34,Žena,357
+b_047,47,78,1,2025-03-26,78,Děti z planety Alfa,Dětská,655,Brno,34,Žena,655
+b_047,47,48,1,2025-03-23,48,Láska na druhý pokus,Román,248,Brno,34,Žena,248
+b_047,47,54,1,2025-03-04,54,Draci severu,Fantasy,541,Brno,34,Žena,541
+b_047,47,90,1,2025-03-01,90,Děti z planety Alfa,Dětská,251,Brno,34,Žena,251
+b_047,47,71,1,2025-03-28,71,Tajemství dětské knihy,Dětská,397,Brno,34,Žena,397
+b_048,48,97,1,2025-03-11,97,Malý drak a moře,Dětská,367,Brno,60,Žena,367
+b_048,48,69,1,2025-03-21,69,Nečekaný osud,Román,298,Brno,60,Žena,298
+b_048,48,86,1,2025-03-04,86,Cesta za láskou,Román,300,Brno,60,Žena,300
+b_048,48,28,1,2025-03-22,28,Létající kolo,Dětská,655,Brno,60,Žena,655
+b_048,48,98,1,2025-03-26,98,Vrah beze jména,Detektivka,248,Brno,60,Žena,248
+b_048,48,32,1,2025-03-06,32,Krvavé léto,Detektivka,254,Brno,60,Žena,254
+b_049,49,68,1,2025-03-30,68,Osudová přitažlivost,Román,298,Plzeň,38,Muž,298
+b_049,49,58,1,2025-03-24,58,Učebnice empatie,Učebnice,289,Plzeň,38,Muž,289
+b_049,49,91,1,2025-03-08,91,Učebnice klidu,Učebnice,456,Plzeň,38,Muž,456
+b_050,50,10,1,2025-03-17,10,Jak vyzrát na stres,Učebnice,698,Praha,47,Muž,698
+b_050,50,73,1,2025-03-06,73,Průvodce lesem,Učebnice,421,Praha,47,Muž,421
+b_050,50,15,1,2025-03-18,15,Ticho před smrtí,Detektivka,446,Praha,47,Muž,446
+b_050,50,8,1,2025-03-06,8,Srdce v plamenech,Román,289,Praha,47,Muž,289
+b_050,50,71,1,2025-03-11,71,Tajemství dětské knihy,Dětská,397,Praha,47,Muž,397
+b_051,51,74,1,2025-03-18,74,Kouzelná říše,Fantasy,198,Praha,52,Muž,198
+b_051,51,69,1,2025-03-14,69,Nečekaný osud,Román,298,Praha,52,Muž,298
+b_051,51,20,1,2025-03-31,20,Kouzelná říše,Fantasy,251,Praha,52,Muž,251
+b_051,51,22,1,2025-03-15,22,Kouzelný autobus,Dětská,366,Praha,52,Muž,366
+b_052,52,67,1,2025-03-08,67,Jak přežít pondělí,Učebnice,365,Liberec,34,Muž,365
+b_052,52,57,1,2025-03-26,57,Pohádky pod peřinu,Dětská,234,Liberec,34,Muž,234
+b_052,52,15,1,2025-03-13,15,Ticho před smrtí,Detektivka,446,Liberec,34,Muž,446
+b_052,52,88,1,2025-03-21,88,Stín draka,Fantasy,398,Liberec,34,Muž,398
+b_052,52,27,1,2025-03-06,27,Temnota u jezera,Detektivka,666,Liberec,34,Muž,666
+b_053,53,12,1,2025-03-06,12,Kouzelná říše,Fantasy,155,Ostrava,22,Muž,155
+b_053,53,66,1,2025-03-21,66,Krvavý měsíc,Detektivka,654,Ostrava,22,Muž,654
+b_053,53,58,1,2025-03-22,58,Učebnice empatie,Učebnice,289,Ostrava,22,Muž,289
+b_053,53,8,1,2025-03-14,8,Srdce v plamenech,Román,289,Ostrava,22,Muž,289
+b_053,53,59,1,2025-03-13,59,Záhada nočního vlaku,Detektivka,298,Ostrava,22,Muž,298
+b_053,53,17,1,2025-03-01,17,Smrt v horách,Detektivka,365,Ostrava,22,Muž,365
+b_054,54,59,1,2025-03-24,59,Záhada nočního vlaku,Detektivka,298,Ostrava,36,Muž,298
+b_054,54,73,1,2025-03-20,73,Průvodce lesem,Učebnice,421,Ostrava,36,Muž,421
+b_054,54,8,1,2025-03-29,8,Srdce v plamenech,Román,289,Ostrava,36,Muž,289
+b_054,54,72,1,2025-03-07,72,Legenda o draku,Fantasy,366,Ostrava,36,Muž,366
+b_054,54,60,1,2025-03-15,60,Princezna a mrkev,Dětská,698,Ostrava,36,Muž,698
+b_054,54,87,1,2025-03-19,87,Osudová přitažlivost,Román,291,Ostrava,36,Muž,291
+b_055,55,93,1,2025-03-14,93,Jak přežít pondělí,Učebnice,359,Plzeň,52,Žena,359
+b_055,55,3,1,2025-03-13,3,Cesta za láskou,Román,289,Plzeň,52,Žena,289
+b_055,55,51,1,2025-03-01,51,Píseň kouzel,Fantasy,354,Plzeň,52,Žena,354
+b_055,55,33,1,2025-03-23,33,Srdce v zimě,Román,354,Plzeň,52,Žena,354
+b_055,55,1,1,2025-03-07,1,Krvavý měsíc,Detektivka,354,Plzeň,52,Žena,354
+b_056,56,75,1,2025-03-07,75,Vrah beze jména,Detektivka,587,Liberec,69,Muž,587
+b_056,56,10,1,2025-03-09,10,Jak vyzrát na stres,Učebnice,698,Liberec,69,Muž,698
+b_056,56,6,1,2025-03-25,6,Temnota u jezera,Detektivka,487,Liberec,69,Muž,487
+b_056,56,55,1,2025-03-23,55,Jak pejsek zachránil svět,Dětská,398,Liberec,69,Muž,398
+b_057,57,90,1,2025-03-26,90,Děti z planety Alfa,Dětská,251,Olomouc,70,Žena,251
+b_057,57,9,1,2025-03-26,9,Tajemství dětské knihy,Dětská,298,Olomouc,70,Žena,298
+b_057,57,70,1,2025-03-03,70,Jak ušetřit čas,Učebnice,251,Olomouc,70,Žena,251
+b_057,57,8,1,2025-03-19,8,Srdce v plamenech,Román,289,Olomouc,70,Žena,289
+b_057,57,61,1,2025-03-04,61,Magie v žilách,Fantasy,365,Olomouc,70,Žena,365
+b_058,58,37,1,2025-03-26,37,Létající kolo,Dětská,291,Olomouc,24,Muž,291
+b_058,58,53,1,2025-03-28,53,Oheň a drak,Fantasy,289,Olomouc,24,Muž,289
+b_058,58,24,1,2025-03-18,24,Oheň a drak,Fantasy,198,Olomouc,24,Muž,198
+b_059,59,99,1,2025-03-06,99,Krvavé léto,Detektivka,258,Ostrava,25,Muž,258
+b_059,59,83,1,2025-03-12,83,Vražda na kolejích,Detektivka,354,Ostrava,25,Muž,354
+b_059,59,94,1,2025-03-11,94,Smrt v horách,Detektivka,659,Ostrava,25,Muž,659
+b_059,59,54,1,2025-03-07,54,Draci severu,Fantasy,541,Ostrava,25,Muž,541
+b_060,60,49,1,2025-03-15,49,Dobrodružství se zvířátky,Dětská,258,Olomouc,53,Muž,258
+b_060,60,58,1,2025-03-04,58,Učebnice empatie,Učebnice,289,Olomouc,53,Muž,289
+b_060,60,11,1,2025-03-09,11,Nečekaný osud,Román,365,Olomouc,53,Muž,365
+b_060,60,88,1,2025-03-22,88,Stín draka,Fantasy,398,Olomouc,53,Muž,398
+b_060,60,85,1,2025-03-28,85,Legenda o draku,Fantasy,254,Olomouc,53,Muž,254
+b_061,61,84,1,2025-03-16,84,Stín draka,Fantasy,398,Ostrava,36,Muž,398
+b_061,61,45,1,2025-03-17,45,Zlomené srdce,Román,258,Ostrava,36,Muž,258
+b_061,61,16,1,2025-03-31,16,Temnota u jezera,Detektivka,654,Ostrava,36,Muž,654
+b_061,61,23,1,2025-03-21,23,Nečekaný osud,Román,421,Ostrava,36,Muž,421
+b_062,62,68,1,2025-03-11,68,Osudová přitažlivost,Román,298,Olomouc,39,Muž,298
+b_062,62,17,1,2025-03-20,17,Smrt v horách,Detektivka,365,Olomouc,39,Muž,365
+b_062,62,94,1,2025-03-13,94,Smrt v horách,Detektivka,659,Olomouc,39,Muž,659
+b_062,62,29,1,2025-03-20,29,O statečném zajíčkovi,Dětská,354,Olomouc,39,Muž,354
+b_062,62,1,1,2025-03-13,1,Krvavý měsíc,Detektivka,354,Olomouc,39,Muž,354
+b_062,62,97,1,2025-03-19,97,Malý drak a moře,Dětská,367,Olomouc,39,Muž,367
+b_063,63,39,1,2025-03-04,39,Ticho před smrtí,Detektivka,374,Olomouc,58,Žena,374
+b_063,63,60,1,2025-03-12,60,Princezna a mrkev,Dětská,698,Olomouc,58,Žena,698
+b_063,63,87,1,2025-03-12,87,Osudová přitažlivost,Román,291,Olomouc,58,Žena,291
+b_064,64,69,1,2025-03-28,69,Nečekaný osud,Román,298,Liberec,49,Žena,298
+b_064,64,49,1,2025-03-15,49,Dobrodružství se zvířátky,Dětská,258,Liberec,49,Žena,258
+b_064,64,30,1,2025-03-20,30,Pohádky pod peřinu,Dětská,259,Liberec,49,Žena,259
+b_064,64,32,1,2025-03-06,32,Krvavé léto,Detektivka,254,Liberec,49,Žena,254
+b_064,64,59,1,2025-03-27,59,Záhada nočního vlaku,Detektivka,298,Liberec,49,Žena,298
+b_064,64,45,1,2025-03-22,45,Zlomené srdce,Román,258,Liberec,49,Žena,258
+b_065,65,36,1,2025-03-23,36,Prsten věčnosti,Fantasy,300,Hradec Králové,21,Muž,300
+b_065,65,25,1,2025-03-26,25,Magie v žilách,Fantasy,587,Hradec Králové,21,Muž,587
+b_065,65,93,1,2025-03-10,93,Jak přežít pondělí,Učebnice,359,Hradec Králové,21,Muž,359
+b_065,65,98,1,2025-03-30,98,Vrah beze jména,Detektivka,248,Hradec Králové,21,Muž,248
+b_066,66,5,1,2025-03-20,5,Kouzla a meče,Fantasy,398,Olomouc,45,Žena,398
+b_066,66,85,1,2025-03-19,85,Legenda o draku,Fantasy,254,Olomouc,45,Žena,254
+b_066,66,54,1,2025-03-03,54,Draci severu,Fantasy,541,Olomouc,45,Žena,541
+b_067,67,31,1,2025-03-22,31,Draci severu,Fantasy,644,Praha,18,Žena,644
+b_067,67,27,1,2025-03-05,27,Temnota u jezera,Detektivka,666,Praha,18,Žena,666
+b_067,67,9,1,2025-03-11,9,Tajemství dětské knihy,Dětská,298,Praha,18,Žena,298
+b_068,68,77,1,2025-03-04,77,Dobrodružství se zvířátky,Dětská,666,Hradec Králové,26,Žena,666
+b_068,68,5,1,2025-03-08,5,Kouzla a meče,Fantasy,398,Hradec Králové,26,Žena,398
+b_068,68,58,1,2025-03-10,58,Učebnice empatie,Učebnice,289,Hradec Králové,26,Žena,289
+b_069,69,32,1,2025-03-04,32,Krvavé léto,Detektivka,254,Brno,65,Žena,254
+b_069,69,95,1,2025-03-06,95,Jak vyzrát na stres,Učebnice,258,Brno,65,Žena,258
+b_069,69,6,1,2025-03-12,6,Temnota u jezera,Detektivka,487,Brno,65,Žena,487
+b_070,70,57,1,2025-03-23,57,Pohádky pod peřinu,Dětská,234,Liberec,63,Žena,234
+b_070,70,30,1,2025-03-05,30,Pohádky pod peřinu,Dětská,259,Liberec,63,Žena,259
+b_070,70,70,1,2025-03-17,70,Jak ušetřit čas,Učebnice,251,Liberec,63,Žena,251
+b_070,70,28,1,2025-03-13,28,Létající kolo,Dětská,655,Liberec,63,Žena,655
+b_070,70,97,1,2025-03-14,97,Malý drak a moře,Dětská,367,Liberec,63,Žena,367
+b_070,70,100,1,2025-03-20,100,Vražda na kolejích,Detektivka,263,Liberec,63,Žena,263
+b_071,71,18,1,2025-03-05,18,Magie v žilách,Fantasy,298,Liberec,18,Muž,298
+b_071,71,65,1,2025-03-19,65,Jak pejsek zachránil svět,Dětská,446,Liberec,18,Muž,446
+b_071,71,38,1,2025-03-13,38,Kouzelná říše,Fantasy,398,Liberec,18,Muž,398
+b_072,72,94,1,2025-03-14,94,Smrt v horách,Detektivka,659,Praha,62,Muž,659
+b_072,72,74,1,2025-03-06,74,Kouzelná říše,Fantasy,198,Praha,62,Muž,198
+b_072,72,41,1,2025-03-16,41,Legenda o draku,Fantasy,456,Praha,62,Muž,456
+b_072,72,77,1,2025-03-21,77,Dobrodružství se zvířátky,Dětská,666,Praha,62,Muž,666
+b_073,73,31,1,2025-03-18,31,Draci severu,Fantasy,644,Liberec,20,Žena,644
+b_073,73,39,1,2025-03-23,39,Ticho před smrtí,Detektivka,374,Liberec,20,Žena,374
+b_073,73,19,1,2025-03-30,19,Tajemství prstenu,Fantasy,298,Liberec,20,Žena,298
+b_073,73,85,1,2025-03-21,85,Legenda o draku,Fantasy,254,Liberec,20,Žena,254
+b_073,73,67,1,2025-03-30,67,Jak přežít pondělí,Učebnice,365,Liberec,20,Žena,365
+b_074,74,53,1,2025-03-06,53,Oheň a drak,Fantasy,289,Liberec,53,Muž,289
+b_074,74,39,1,2025-03-18,39,Ticho před smrtí,Detektivka,374,Liberec,53,Muž,374
+b_074,74,36,1,2025-03-06,36,Prsten věčnosti,Fantasy,300,Liberec,53,Muž,300
+b_074,74,8,1,2025-03-16,8,Srdce v plamenech,Román,289,Liberec,53,Muž,289
+b_075,75,81,1,2025-03-10,81,Nečekaný osud,Román,644,Plzeň,26,Muž,644
+b_075,75,87,1,2025-03-05,87,Osudová přitažlivost,Román,291,Plzeň,26,Muž,291
+b_075,75,55,1,2025-03-06,55,Jak pejsek zachránil svět,Dětská,398,Plzeň,26,Muž,398
+b_075,75,72,1,2025-03-11,72,Legenda o draku,Fantasy,366,Plzeň,26,Muž,366
+b_076,76,7,1,2025-03-27,7,Láska na druhý pokus,Román,234,Ostrava,41,Muž,234
+b_076,76,45,1,2025-03-15,45,Zlomené srdce,Román,258,Ostrava,41,Muž,258
+b_076,76,83,1,2025-03-20,83,Vražda na kolejích,Detektivka,354,Ostrava,41,Muž,354
+b_076,76,86,1,2025-03-02,86,Cesta za láskou,Román,300,Ostrava,41,Muž,300
+b_076,76,49,1,2025-03-28,49,Dobrodružství se zvířátky,Dětská,258,Ostrava,41,Muž,258
+b_076,76,68,1,2025-03-12,68,Osudová přitažlivost,Román,298,Ostrava,41,Muž,298
+b_077,77,90,1,2025-03-31,90,Děti z planety Alfa,Dětská,251,Ostrava,31,Muž,251
+b_077,77,54,1,2025-03-01,54,Draci severu,Fantasy,541,Ostrava,31,Muž,541
+b_077,77,53,1,2025-03-16,53,Oheň a drak,Fantasy,289,Ostrava,31,Muž,289
+b_077,77,20,1,2025-03-05,20,Kouzelná říše,Fantasy,251,Ostrava,31,Muž,251
+b_077,77,39,1,2025-03-07,39,Ticho před smrtí,Detektivka,374,Ostrava,31,Muž,374
+b_078,78,24,1,2025-03-27,24,Oheň a drak,Fantasy,198,Olomouc,24,Žena,198
+b_078,78,97,1,2025-03-13,97,Malý drak a moře,Dětská,367,Olomouc,24,Žena,367
+b_078,78,69,1,2025-03-31,69,Nečekaný osud,Román,298,Olomouc,24,Žena,298
+b_078,78,61,1,2025-03-18,61,Magie v žilách,Fantasy,365,Olomouc,24,Žena,365
+b_078,78,31,1,2025-03-17,31,Draci severu,Fantasy,644,Olomouc,24,Žena,644
+b_078,78,29,1,2025-03-21,29,O statečném zajíčkovi,Dětská,354,Olomouc,24,Žena,354
+b_079,79,91,1,2025-03-16,91,Učebnice klidu,Učebnice,456,Hradec Králové,53,Žena,456
+b_079,79,19,1,2025-03-14,19,Tajemství prstenu,Fantasy,298,Hradec Králové,53,Žena,298
+b_079,79,60,1,2025-03-22,60,Princezna a mrkev,Dětská,698,Hradec Králové,53,Žena,698
+b_079,79,8,1,2025-03-16,8,Srdce v plamenech,Román,289,Hradec Králové,53,Žena,289
+b_079,79,72,1,2025-03-14,72,Legenda o draku,Fantasy,366,Hradec Králové,53,Žena,366
+b_080,80,54,1,2025-03-23,54,Draci severu,Fantasy,541,Liberec,65,Muž,541
+b_080,80,72,1,2025-03-27,72,Legenda o draku,Fantasy,366,Liberec,65,Muž,366
+b_080,80,68,1,2025-03-15,68,Osudová přitažlivost,Román,298,Liberec,65,Muž,298
+b_080,80,18,1,2025-03-16,18,Magie v žilách,Fantasy,298,Liberec,65,Muž,298
+b_080,80,50,1,2025-03-06,50,Jak funguje internet,Učebnice,263,Liberec,65,Muž,263
+b_080,80,32,1,2025-03-03,32,Krvavé léto,Detektivka,254,Liberec,65,Muž,254
+b_081,81,27,1,2025-03-19,27,Temnota u jezera,Detektivka,666,Brno,28,Muž,666
+b_081,81,43,1,2025-03-01,43,Jak vyzrát na stres,Učebnice,359,Brno,28,Muž,359
+b_081,81,83,1,2025-03-26,83,Vražda na kolejích,Detektivka,354,Brno,28,Muž,354
+b_081,81,11,1,2025-03-25,11,Nečekaný osud,Román,365,Brno,28,Muž,365
+b_081,81,58,1,2025-03-08,58,Učebnice empatie,Učebnice,289,Brno,28,Muž,289
+b_082,82,12,1,2025-03-10,12,Kouzelná říše,Fantasy,155,Plzeň,19,Muž,155
+b_082,82,69,1,2025-03-02,69,Nečekaný osud,Román,298,Plzeň,19,Muž,298
+b_082,82,93,1,2025-03-09,93,Jak přežít pondělí,Učebnice,359,Plzeň,19,Muž,359
+b_082,82,25,1,2025-03-08,25,Magie v žilách,Fantasy,587,Plzeň,19,Muž,587
+b_082,82,7,1,2025-03-18,7,Láska na druhý pokus,Román,234,Plzeň,19,Muž,234
+b_083,83,49,1,2025-03-10,49,Dobrodružství se zvířátky,Dětská,258,Olomouc,39,Žena,258
+b_083,83,87,1,2025-03-06,87,Osudová přitažlivost,Román,291,Olomouc,39,Žena,291
+b_083,83,78,1,2025-03-25,78,Děti z planety Alfa,Dětská,655,Olomouc,39,Žena,655
+b_083,83,6,1,2025-03-15,6,Temnota u jezera,Detektivka,487,Olomouc,39,Žena,487
+b_083,83,10,1,2025-03-19,10,Jak vyzrát na stres,Učebnice,698,Olomouc,39,Žena,698
+b_084,84,98,1,2025-03-24,98,Vrah beze jména,Detektivka,248,Hradec Králové,60,Muž,248
+b_084,84,76,1,2025-03-25,76,Láska bez hranic,Román,555,Hradec Králové,60,Muž,555
+b_084,84,93,1,2025-03-25,93,Jak přežít pondělí,Učebnice,359,Hradec Králové,60,Muž,359
+b_084,84,86,1,2025-03-16,86,Cesta za láskou,Román,300,Hradec Králové,60,Muž,300
+b_085,85,62,1,2025-03-18,62,O statečném zajíčkovi,Dětská,155,Ostrava,28,Muž,155
+b_085,85,27,1,2025-03-17,27,Temnota u jezera,Detektivka,666,Ostrava,28,Muž,666
+b_085,85,43,1,2025-03-04,43,Jak vyzrát na stres,Učebnice,359,Ostrava,28,Muž,359
+b_085,85,39,1,2025-03-19,39,Ticho před smrtí,Detektivka,374,Ostrava,28,Muž,374
+b_086,86,28,1,2025-03-04,28,Létající kolo,Dětská,655,Plzeň,20,Žena,655
+b_086,86,25,1,2025-03-09,25,Magie v žilách,Fantasy,587,Plzeň,20,Žena,587
+b_086,86,95,1,2025-03-25,95,Jak vyzrát na stres,Učebnice,258,Plzeň,20,Žena,258
+b_087,87,96,1,2025-03-18,96,Láska a víno,Román,357,Brno,30,Žena,357
+b_087,87,97,1,2025-03-27,97,Malý drak a moře,Dětská,367,Brno,30,Žena,367
+b_087,87,62,1,2025-03-12,62,O statečném zajíčkovi,Dětská,155,Brno,30,Žena,155
+b_088,88,90,1,2025-03-18,90,Děti z planety Alfa,Dětská,251,Ostrava,37,Muž,251
+b_088,88,78,1,2025-03-27,78,Děti z planety Alfa,Dětská,655,Ostrava,37,Muž,655
+b_088,88,91,1,2025-03-25,91,Učebnice klidu,Učebnice,456,Ostrava,37,Muž,456
+b_088,88,27,1,2025-03-02,27,Temnota u jezera,Detektivka,666,Ostrava,37,Muž,666
+b_089,89,31,1,2025-03-25,31,Draci severu,Fantasy,644,Brno,19,Muž,644
+b_089,89,71,1,2025-03-24,71,Tajemství dětské knihy,Dětská,397,Brno,19,Muž,397
+b_089,89,42,1,2025-03-15,42,Jak vyzrát na stres,Učebnice,564,Brno,19,Muž,564
+b_089,89,100,1,2025-03-18,100,Vražda na kolejích,Detektivka,263,Brno,19,Muž,263
+b_089,89,37,1,2025-03-07,37,Létající kolo,Dětská,291,Brno,19,Muž,291
+b_089,89,49,1,2025-03-14,49,Dobrodružství se zvířátky,Dětská,258,Brno,19,Muž,258
+b_090,90,69,1,2025-03-04,69,Nečekaný osud,Román,298,Plzeň,39,Žena,298
+b_090,90,84,1,2025-03-24,84,Stín draka,Fantasy,398,Plzeň,39,Žena,398
+b_090,90,46,1,2025-03-27,46,Krvavé léto,Detektivka,357,Plzeň,39,Žena,357
+b_090,90,40,1,2025-03-21,40,Vražda na kolejích,Detektivka,251,Plzeň,39,Žena,251
+b_090,90,34,1,2025-03-25,34,Temnota u jezera,Detektivka,398,Plzeň,39,Žena,398
+b_090,90,47,1,2025-03-08,47,Jak pochopit data,Učebnice,367,Plzeň,39,Žena,367
+b_091,91,60,1,2025-03-10,60,Princezna a mrkev,Dětská,698,Hradec Králové,22,Žena,698
+b_091,91,13,1,2025-03-28,13,Tajemství dětské knihy,Dětská,684,Hradec Králové,22,Žena,684
+b_091,91,93,1,2025-03-02,93,Jak přežít pondělí,Učebnice,359,Hradec Králové,22,Žena,359
+b_091,91,61,1,2025-03-15,61,Magie v žilách,Fantasy,365,Hradec Králové,22,Žena,365
+b_091,91,98,1,2025-03-09,98,Vrah beze jména,Detektivka,248,Hradec Králové,22,Žena,248
+b_091,91,41,1,2025-03-12,41,Legenda o draku,Fantasy,456,Hradec Králové,22,Žena,456
+b_092,92,48,1,2025-03-28,48,Láska na druhý pokus,Román,248,Ostrava,59,Žena,248
+b_092,92,41,1,2025-03-27,41,Legenda o draku,Fantasy,456,Ostrava,59,Žena,456
+b_092,92,53,1,2025-03-03,53,Oheň a drak,Fantasy,289,Ostrava,59,Žena,289
+b_092,92,6,1,2025-03-15,6,Temnota u jezera,Detektivka,487,Ostrava,59,Žena,487
+b_093,93,95,1,2025-03-28,95,Jak vyzrát na stres,Učebnice,258,Olomouc,52,Žena,258
+b_093,93,19,1,2025-03-04,19,Tajemství prstenu,Fantasy,298,Olomouc,52,Žena,298
+b_093,93,3,1,2025-03-25,3,Cesta za láskou,Román,289,Olomouc,52,Žena,289
+b_093,93,34,1,2025-03-26,34,Temnota u jezera,Detektivka,398,Olomouc,52,Žena,398
+b_094,94,38,1,2025-03-08,38,Kouzelná říše,Fantasy,398,Praha,25,Žena,398
+b_094,94,20,1,2025-03-07,20,Kouzelná říše,Fantasy,251,Praha,25,Žena,251
+b_094,94,26,1,2025-03-26,26,Píseň kouzel,Fantasy,555,Praha,25,Žena,555
+b_094,94,43,1,2025-03-24,43,Jak vyzrát na stres,Učebnice,359,Praha,25,Žena,359
+b_094,94,30,1,2025-03-19,30,Pohádky pod peřinu,Dětská,259,Praha,25,Žena,259
+b_094,94,49,1,2025-03-23,49,Dobrodružství se zvířátky,Dětská,258,Praha,25,Žena,258
+b_095,95,64,1,2025-03-12,64,Noc v podzemí,Detektivka,355,Brno,55,Žena,355
+b_095,95,71,1,2025-03-28,71,Tajemství dětské knihy,Dětská,397,Brno,55,Žena,397
+b_095,95,84,1,2025-03-23,84,Stín draka,Fantasy,398,Brno,55,Žena,398
+b_095,95,88,1,2025-03-20,88,Stín draka,Fantasy,398,Brno,55,Žena,398
+b_096,96,33,1,2025-03-21,33,Srdce v zimě,Román,354,Praha,24,Žena,354
+b_096,96,98,1,2025-03-14,98,Vrah beze jména,Detektivka,248,Praha,24,Žena,248
+b_096,96,63,1,2025-03-06,63,Děti z planety Alfa,Dětská,684,Praha,24,Žena,684
+b_096,96,93,1,2025-03-20,93,Jak přežít pondělí,Učebnice,359,Praha,24,Žena,359
+b_096,96,83,1,2025-03-05,83,Vražda na kolejích,Detektivka,354,Praha,24,Žena,354
+b_097,97,59,1,2025-03-26,59,Záhada nočního vlaku,Detektivka,298,Ostrava,64,Žena,298
+b_097,97,22,1,2025-03-07,22,Kouzelný autobus,Dětská,366,Ostrava,64,Žena,366
+b_097,97,94,1,2025-03-27,94,Smrt v horách,Detektivka,659,Ostrava,64,Žena,659
+b_097,97,46,1,2025-03-07,46,Krvavé léto,Detektivka,357,Ostrava,64,Žena,357
+b_097,97,18,1,2025-03-26,18,Magie v žilách,Fantasy,298,Ostrava,64,Žena,298
+b_097,97,93,1,2025-03-02,93,Jak přežít pondělí,Učebnice,359,Ostrava,64,Žena,359
+b_098,98,24,1,2025-03-19,24,Oheň a drak,Fantasy,198,Plzeň,56,Muž,198
+b_098,98,70,1,2025-03-12,70,Jak ušetřit čas,Učebnice,251,Plzeň,56,Muž,251
+b_098,98,83,1,2025-03-18,83,Vražda na kolejích,Detektivka,354,Plzeň,56,Muž,354
+b_098,98,8,1,2025-03-09,8,Srdce v plamenech,Román,289,Plzeň,56,Muž,289
+b_098,98,68,1,2025-03-20,68,Osudová přitažlivost,Román,298,Plzeň,56,Muž,298
+b_098,98,5,1,2025-03-18,5,Kouzla a meče,Fantasy,398,Plzeň,56,Muž,398
+b_099,99,86,1,2025-03-06,86,Cesta za láskou,Román,300,Plzeň,54,Muž,300
+b_099,99,7,1,2025-03-11,7,Láska na druhý pokus,Román,234,Plzeň,54,Muž,234
+b_099,99,98,1,2025-03-23,98,Vrah beze jména,Detektivka,248,Plzeň,54,Muž,248
+b_100,100,53,1,2025-03-10,53,Oheň a drak,Fantasy,289,Ostrava,20,Žena,289
+b_100,100,18,1,2025-03-10,18,Magie v žilách,Fantasy,298,Ostrava,20,Žena,298
+b_100,100,81,1,2025-03-19,81,Nečekaný osud,Román,644,Ostrava,20,Žena,644
+b_101,101,9,1,2025-03-09,9,Tajemství dětské knihy,Dětská,298,Praha,51,Muž,298
+b_101,101,91,1,2025-03-31,91,Učebnice klidu,Učebnice,456,Praha,51,Muž,456
+b_101,101,20,1,2025-03-28,20,Kouzelná říše,Fantasy,251,Praha,51,Muž,251
+b_101,101,2,1,2025-03-17,2,Stín draka,Fantasy,264,Praha,51,Muž,264
+b_102,102,65,1,2025-03-29,65,Jak pejsek zachránil svět,Dětská,446,Ostrava,45,Muž,446
+b_102,102,59,1,2025-03-22,59,Záhada nočního vlaku,Detektivka,298,Ostrava,45,Muž,298
+b_102,102,48,1,2025-03-27,48,Láska na druhý pokus,Román,248,Ostrava,45,Muž,248
+b_102,102,8,1,2025-03-04,8,Srdce v plamenech,Román,289,Ostrava,45,Muž,289
+b_103,103,85,1,2025-03-05,85,Legenda o draku,Fantasy,254,Olomouc,39,Žena,254
+b_103,103,63,1,2025-03-31,63,Děti z planety Alfa,Dětská,684,Olomouc,39,Žena,684
+b_103,103,3,1,2025-03-25,3,Cesta za láskou,Román,289,Olomouc,39,Žena,289
+b_103,103,1,1,2025-03-26,1,Krvavý měsíc,Detektivka,354,Olomouc,39,Žena,354
+b_103,103,69,1,2025-03-14,69,Nečekaný osud,Román,298,Olomouc,39,Žena,298
+b_103,103,71,1,2025-03-30,71,Tajemství dětské knihy,Dětská,397,Olomouc,39,Žena,397
+b_104,104,2,1,2025-03-02,2,Stín draka,Fantasy,264,Olomouc,25,Žena,264
+b_104,104,3,1,2025-03-09,3,Cesta za láskou,Román,289,Olomouc,25,Žena,289
+b_104,104,68,1,2025-03-28,68,Osudová přitažlivost,Román,298,Olomouc,25,Žena,298
+b_104,104,93,1,2025-03-21,93,Jak přežít pondělí,Učebnice,359,Olomouc,25,Žena,359
+b_104,104,36,1,2025-03-05,36,Prsten věčnosti,Fantasy,300,Olomouc,25,Žena,300
+b_104,104,69,1,2025-03-23,69,Nečekaný osud,Román,298,Olomouc,25,Žena,298
+b_105,105,3,1,2025-03-28,3,Cesta za láskou,Román,289,Liberec,37,Žena,289
+b_105,105,65,1,2025-03-05,65,Jak pejsek zachránil svět,Dětská,446,Liberec,37,Žena,446
+b_105,105,90,1,2025-03-08,90,Děti z planety Alfa,Dětská,251,Liberec,37,Žena,251
+b_105,105,87,1,2025-03-05,87,Osudová přitažlivost,Román,291,Liberec,37,Žena,291
+b_105,105,56,1,2025-03-23,56,Nečekaný osud,Román,487,Liberec,37,Žena,487
+b_106,106,14,1,2025-03-11,14,Kouzla a meče,Fantasy,355,Ostrava,43,Žena,355
+b_106,106,13,1,2025-03-27,13,Tajemství dětské knihy,Dětská,684,Ostrava,43,Žena,684
+b_106,106,68,1,2025-03-08,68,Osudová přitažlivost,Román,298,Ostrava,43,Žena,298
+b_106,106,20,1,2025-03-25,20,Kouzelná říše,Fantasy,251,Ostrava,43,Žena,251
+b_107,107,25,1,2025-03-27,25,Magie v žilách,Fantasy,587,Liberec,26,Muž,587
+b_107,107,80,1,2025-03-22,80,Stín draka,Fantasy,259,Liberec,26,Muž,259
+b_107,107,68,1,2025-03-13,68,Osudová přitažlivost,Román,298,Liberec,26,Muž,298
+b_107,107,33,1,2025-03-16,33,Srdce v zimě,Román,354,Liberec,26,Muž,354
+b_108,108,35,1,2025-03-05,35,Smrt v horách,Detektivka,254,Plzeň,60,Žena,254
+b_108,108,51,1,2025-03-19,51,Píseň kouzel,Fantasy,354,Plzeň,60,Žena,354
+b_108,108,11,1,2025-03-21,11,Nečekaný osud,Román,365,Plzeň,60,Žena,365
+b_108,108,48,1,2025-03-09,48,Láska na druhý pokus,Román,248,Plzeň,60,Žena,248
+b_108,108,52,1,2025-03-21,52,Létající kolo,Dětská,264,Plzeň,60,Žena,264
+b_109,109,73,1,2025-03-14,73,Průvodce lesem,Učebnice,421,Olomouc,65,Muž,421
+b_109,109,32,1,2025-03-13,32,Krvavé léto,Detektivka,254,Olomouc,65,Muž,254
+b_109,109,90,1,2025-03-15,90,Děti z planety Alfa,Dětská,251,Olomouc,65,Muž,251
+b_109,109,29,1,2025-03-03,29,O statečném zajíčkovi,Dětská,354,Olomouc,65,Muž,354
+b_109,109,39,1,2025-03-21,39,Ticho před smrtí,Detektivka,374,Olomouc,65,Muž,374
+b_109,109,88,1,2025-03-26,88,Stín draka,Fantasy,398,Olomouc,65,Muž,398
+b_110,110,84,1,2025-03-29,84,Stín draka,Fantasy,398,Liberec,54,Žena,398
+b_110,110,98,1,2025-03-25,98,Vrah beze jména,Detektivka,248,Liberec,54,Žena,248
+b_110,110,5,1,2025-03-03,5,Kouzla a meče,Fantasy,398,Liberec,54,Žena,398
+b_111,111,52,1,2025-03-13,52,Létající kolo,Dětská,264,Plzeň,53,Muž,264
+b_111,111,49,1,2025-03-17,49,Dobrodružství se zvířátky,Dětská,258,Plzeň,53,Muž,258
+b_111,111,71,1,2025-03-24,71,Tajemství dětské knihy,Dětská,397,Plzeň,53,Muž,397
+b_112,112,8,1,2025-03-09,8,Srdce v plamenech,Román,289,Ostrava,36,Muž,289
+b_112,112,82,1,2025-03-23,82,Záhada nočního vlaku,Detektivka,254,Ostrava,36,Muž,254
+b_112,112,2,1,2025-03-30,2,Stín draka,Fantasy,264,Ostrava,36,Muž,264
+b_112,112,90,1,2025-03-29,90,Děti z planety Alfa,Dětská,251,Ostrava,36,Muž,251
+b_112,112,22,1,2025-03-12,22,Kouzelný autobus,Dětská,366,Ostrava,36,Muž,366
+b_112,112,11,1,2025-03-15,11,Nečekaný osud,Román,365,Ostrava,36,Muž,365
+b_113,113,56,1,2025-03-31,56,Nečekaný osud,Román,487,Plzeň,68,Žena,487
+b_113,113,83,1,2025-03-16,83,Vražda na kolejích,Detektivka,354,Plzeň,68,Žena,354
+b_113,113,43,1,2025-03-11,43,Jak vyzrát na stres,Učebnice,359,Plzeň,68,Žena,359
+b_113,113,73,1,2025-03-19,73,Průvodce lesem,Učebnice,421,Plzeň,68,Žena,421
+b_113,113,13,1,2025-03-01,13,Tajemství dětské knihy,Dětská,684,Plzeň,68,Žena,684
+b_113,113,68,1,2025-03-28,68,Osudová přitažlivost,Román,298,Plzeň,68,Žena,298
+b_114,114,30,1,2025-03-25,30,Pohádky pod peřinu,Dětská,259,Plzeň,46,Žena,259
+b_114,114,28,1,2025-03-28,28,Létající kolo,Dětská,655,Plzeň,46,Žena,655
+b_114,114,89,1,2025-03-24,89,Draci severu,Fantasy,374,Plzeň,46,Žena,374
+b_115,115,35,1,2025-03-03,35,Smrt v horách,Detektivka,254,Olomouc,31,Žena,254
+b_115,115,6,1,2025-03-24,6,Temnota u jezera,Detektivka,487,Olomouc,31,Žena,487
+b_115,115,10,1,2025-03-15,10,Jak vyzrát na stres,Učebnice,698,Olomouc,31,Žena,698
+b_115,115,88,1,2025-03-21,88,Stín draka,Fantasy,398,Olomouc,31,Žena,398
+b_115,115,36,1,2025-03-22,36,Prsten věčnosti,Fantasy,300,Olomouc,31,Žena,300
+b_115,115,70,1,2025-03-23,70,Jak ušetřit čas,Učebnice,251,Olomouc,31,Žena,251
+b_116,116,23,1,2025-03-12,23,Nečekaný osud,Román,421,Hradec Králové,68,Muž,421
+b_116,116,41,1,2025-03-28,41,Legenda o draku,Fantasy,456,Hradec Králové,68,Muž,456
+b_116,116,3,1,2025-03-03,3,Cesta za láskou,Román,289,Hradec Králové,68,Muž,289
+b_117,117,76,1,2025-03-26,76,Láska bez hranic,Román,555,Olomouc,23,Žena,555
+b_117,117,19,1,2025-03-18,19,Tajemství prstenu,Fantasy,298,Olomouc,23,Žena,298
+b_117,117,97,1,2025-03-13,97,Malý drak a moře,Dětská,367,Olomouc,23,Žena,367
+b_117,117,92,1,2025-03-07,92,Dobrodružství se zvířátky,Dětská,564,Olomouc,23,Žena,564
+b_118,118,10,1,2025-03-31,10,Jak vyzrát na stres,Učebnice,698,Liberec,60,Žena,698
+b_118,118,39,1,2025-03-14,39,Ticho před smrtí,Detektivka,374,Liberec,60,Žena,374
+b_118,118,21,1,2025-03-27,21,Jak vyzrát na stres,Učebnice,397,Liberec,60,Žena,397
+b_118,118,73,1,2025-03-07,73,Průvodce lesem,Učebnice,421,Liberec,60,Žena,421
+b_118,118,31,1,2025-03-16,31,Draci severu,Fantasy,644,Liberec,60,Žena,644
+b_118,118,50,1,2025-03-09,50,Jak funguje internet,Učebnice,263,Liberec,60,Žena,263
+b_119,119,50,1,2025-03-11,50,Jak funguje internet,Učebnice,263,Praha,70,Muž,263
+b_119,119,97,1,2025-03-27,97,Malý drak a moře,Dětská,367,Praha,70,Muž,367
+b_119,119,95,1,2025-03-10,95,Jak vyzrát na stres,Učebnice,258,Praha,70,Muž,258
+b_119,119,18,1,2025-03-11,18,Magie v žilách,Fantasy,298,Praha,70,Muž,298
+b_119,119,89,1,2025-03-18,89,Draci severu,Fantasy,374,Praha,70,Muž,374
+b_120,120,65,1,2025-03-19,65,Jak pejsek zachránil svět,Dětská,446,Olomouc,37,Muž,446
+b_120,120,96,1,2025-03-05,96,Láska a víno,Román,357,Olomouc,37,Muž,357
+b_120,120,45,1,2025-03-19,45,Zlomené srdce,Román,258,Olomouc,37,Muž,258
+b_121,121,13,1,2025-03-28,13,Tajemství dětské knihy,Dětská,684,Hradec Králové,30,Muž,684
+b_121,121,56,1,2025-03-16,56,Nečekaný osud,Román,487,Hradec Králové,30,Muž,487
+b_121,121,30,1,2025-03-26,30,Pohádky pod peřinu,Dětská,259,Hradec Králové,30,Muž,259
+b_122,122,44,1,2025-03-11,44,Oheň a drak,Fantasy,659,Praha,20,Muž,659
+b_122,122,78,1,2025-03-29,78,Děti z planety Alfa,Dětská,655,Praha,20,Muž,655
+b_122,122,99,1,2025-03-22,99,Krvavé léto,Detektivka,258,Praha,20,Muž,258
+b_123,123,100,1,2025-03-25,100,Vražda na kolejích,Detektivka,263,Plzeň,57,Muž,263
+b_123,123,42,1,2025-03-02,42,Jak vyzrát na stres,Učebnice,564,Plzeň,57,Muž,564
+b_123,123,4,1,2025-03-02,4,Srdce v zimě,Román,541,Plzeň,57,Muž,541
+b_123,123,82,1,2025-03-04,82,Záhada nočního vlaku,Detektivka,254,Plzeň,57,Muž,254
+b_123,123,35,1,2025-03-21,35,Smrt v horách,Detektivka,254,Plzeň,57,Muž,254
+b_123,123,58,1,2025-03-26,58,Učebnice empatie,Učebnice,289,Plzeň,57,Muž,289
+b_124,124,30,1,2025-03-27,30,Pohádky pod peřinu,Dětská,259,Plzeň,44,Muž,259
+b_124,124,46,1,2025-03-15,46,Krvavé léto,Detektivka,357,Plzeň,44,Muž,357
+b_124,124,71,1,2025-03-01,71,Tajemství dětské knihy,Dětská,397,Plzeň,44,Muž,397
+b_124,124,49,1,2025-03-04,49,Dobrodružství se zvířátky,Dětská,258,Plzeň,44,Muž,258
+b_124,124,56,1,2025-03-30,56,Nečekaný osud,Román,487,Plzeň,44,Muž,487
+b_124,124,24,1,2025-03-28,24,Oheň a drak,Fantasy,198,Plzeň,44,Muž,198
+b_125,125,11,1,2025-03-06,11,Nečekaný osud,Román,365,Olomouc,62,Žena,365
+b_125,125,99,1,2025-03-15,99,Krvavé léto,Detektivka,258,Olomouc,62,Žena,258
+b_125,125,80,1,2025-03-15,80,Stín draka,Fantasy,259,Olomouc,62,Žena,259
+b_125,125,38,1,2025-03-01,38,Kouzelná říše,Fantasy,398,Olomouc,62,Žena,398
+b_125,125,32,1,2025-03-31,32,Krvavé léto,Detektivka,254,Olomouc,62,Žena,254
+b_125,125,92,1,2025-03-14,92,Dobrodružství se zvířátky,Dětská,564,Olomouc,62,Žena,564
+b_126,126,11,1,2025-03-07,11,Nečekaný osud,Román,365,Plzeň,43,Muž,365
+b_126,126,35,1,2025-03-23,35,Smrt v horách,Detektivka,254,Plzeň,43,Muž,254
+b_126,126,20,1,2025-03-30,20,Kouzelná říše,Fantasy,251,Plzeň,43,Muž,251
+b_127,127,92,1,2025-03-05,92,Dobrodružství se zvířátky,Dětská,564,Brno,59,Muž,564
+b_127,127,82,1,2025-03-29,82,Záhada nočního vlaku,Detektivka,254,Brno,59,Muž,254
+b_127,127,20,1,2025-03-21,20,Kouzelná říše,Fantasy,251,Brno,59,Muž,251
+b_127,127,95,1,2025-03-10,95,Jak vyzrát na stres,Učebnice,258,Brno,59,Muž,258
+b_127,127,50,1,2025-03-06,50,Jak funguje internet,Učebnice,263,Brno,59,Muž,263
+b_127,127,41,1,2025-03-28,41,Legenda o draku,Fantasy,456,Brno,59,Muž,456
+b_128,128,14,1,2025-03-30,14,Kouzla a meče,Fantasy,355,Hradec Králové,67,Muž,355
+b_128,128,12,1,2025-03-29,12,Kouzelná říše,Fantasy,155,Hradec Králové,67,Muž,155
+b_128,128,1,1,2025-03-09,1,Krvavý měsíc,Detektivka,354,Hradec Králové,67,Muž,354
+b_128,128,40,1,2025-03-03,40,Vražda na kolejích,Detektivka,251,Hradec Králové,67,Muž,251
+b_128,128,57,1,2025-03-21,57,Pohádky pod peřinu,Dětská,234,Hradec Králové,67,Muž,234
+b_129,129,98,1,2025-03-12,98,Vrah beze jména,Detektivka,248,Hradec Králové,45,Muž,248
+b_129,129,35,1,2025-03-09,35,Smrt v horách,Detektivka,254,Hradec Králové,45,Muž,254
+b_129,129,14,1,2025-03-03,14,Kouzla a meče,Fantasy,355,Hradec Králové,45,Muž,355
+b_129,129,17,1,2025-03-12,17,Smrt v horách,Detektivka,365,Hradec Králové,45,Muž,365
+b_129,129,12,1,2025-03-22,12,Kouzelná říše,Fantasy,155,Hradec Králové,45,Muž,155
+b_130,130,56,1,2025-03-29,56,Nečekaný osud,Román,487,Brno,69,Žena,487
+b_130,130,58,1,2025-03-21,58,Učebnice empatie,Učebnice,289,Brno,69,Žena,289
+b_130,130,72,1,2025-03-06,72,Legenda o draku,Fantasy,366,Brno,69,Žena,366
+b_130,130,66,1,2025-03-02,66,Krvavý měsíc,Detektivka,654,Brno,69,Žena,654
+b_131,131,14,1,2025-03-13,14,Kouzla a meče,Fantasy,355,Praha,53,Muž,355
+b_131,131,4,1,2025-03-21,4,Srdce v zimě,Román,541,Praha,53,Muž,541
+b_131,131,12,1,2025-03-10,12,Kouzelná říše,Fantasy,155,Praha,53,Muž,155
+b_131,131,46,1,2025-03-24,46,Krvavé léto,Detektivka,357,Praha,53,Muž,357
+b_131,131,71,1,2025-03-23,71,Tajemství dětské knihy,Dětská,397,Praha,53,Muž,397
+b_131,131,77,1,2025-03-25,77,Dobrodružství se zvířátky,Dětská,666,Praha,53,Muž,666
+b_132,132,50,1,2025-03-08,50,Jak funguje internet,Učebnice,263,Hradec Králové,25,Žena,263
+b_132,132,2,1,2025-03-14,2,Stín draka,Fantasy,264,Hradec Králové,25,Žena,264
+b_132,132,38,1,2025-03-21,38,Kouzelná říše,Fantasy,398,Hradec Králové,25,Žena,398
+b_132,132,53,1,2025-03-03,53,Oheň a drak,Fantasy,289,Hradec Králové,25,Žena,289
+b_132,132,100,1,2025-03-23,100,Vražda na kolejích,Detektivka,263,Hradec Králové,25,Žena,263
+b_133,133,93,1,2025-03-04,93,Jak přežít pondělí,Učebnice,359,Brno,69,Žena,359
+b_133,133,72,1,2025-03-01,72,Legenda o draku,Fantasy,366,Brno,69,Žena,366
+b_133,133,32,1,2025-03-07,32,Krvavé léto,Detektivka,254,Brno,69,Žena,254
+b_134,134,88,1,2025-03-16,88,Stín draka,Fantasy,398,Olomouc,51,Žena,398
+b_134,134,49,1,2025-03-03,49,Dobrodružství se zvířátky,Dětská,258,Olomouc,51,Žena,258
+b_134,134,22,1,2025-03-05,22,Kouzelný autobus,Dětská,366,Olomouc,51,Žena,366
+b_134,134,18,1,2025-03-19,18,Magie v žilách,Fantasy,298,Olomouc,51,Žena,298
+b_135,135,39,1,2025-03-08,39,Ticho před smrtí,Detektivka,374,Hradec Králové,46,Žena,374
+b_135,135,35,1,2025-03-17,35,Smrt v horách,Detektivka,254,Hradec Králové,46,Žena,254
+b_135,135,64,1,2025-03-22,64,Noc v podzemí,Detektivka,355,Hradec Králové,46,Žena,355
+b_135,135,19,1,2025-03-15,19,Tajemství prstenu,Fantasy,298,Hradec Králové,46,Žena,298
+b_135,135,9,1,2025-03-01,9,Tajemství dětské knihy,Dětská,298,Hradec Králové,46,Žena,298
+DUB1000,85,40,1,2025-04-11,40,Vražda na kolejích,Detektivka,251,Ostrava,28,Muž,251
+DUB1000,85,18,1,2025-04-11,18,Magie v žilách,Fantasy,298,Ostrava,28,Muž,298
+DUB1000,85,15,1,2025-04-11,15,Ticho před smrtí,Detektivka,446,Ostrava,28,Muž,446
+DUB1001,20,68,1,2025-04-28,68,Osudová přitažlivost,Román,298,Hradec Králové,24,Muž,298
+DUB1002,155,52,1,2025-04-23,52,Létající kolo,Dětská,264,Hradec Králové,44,Muž,264
+DUB1002,155,61,1,2025-04-23,61,Magie v žilách,Fantasy,365,Hradec Králové,44,Muž,365
+DUB1002,155,5,1,2025-04-23,5,Kouzla a meče,Fantasy,398,Hradec Králové,44,Muž,398
+DUB1002,155,20,1,2025-04-23,20,Kouzelná říše,Fantasy,251,Hradec Králové,44,Muž,251
+DUB1002,155,9,1,2025-04-23,9,Tajemství dětské knihy,Dětská,298,Hradec Králové,44,Muž,298
+DUB1002,155,13,1,2025-04-23,13,Tajemství dětské knihy,Dětská,684,Hradec Králové,44,Muž,684
+DUB1003,167,69,1,2025-04-16,69,Nečekaný osud,Román,298,Ostrava,66,Žena,298
+DUB1003,167,21,1,2025-04-16,21,Jak vyzrát na stres,Učebnice,397,Ostrava,66,Žena,397
+DUB1003,167,28,1,2025-04-16,28,Létající kolo,Dětská,655,Ostrava,66,Žena,655
+DUB1003,167,74,1,2025-04-16,74,Kouzelná říše,Fantasy,198,Ostrava,66,Žena,198
+DUB1004,4,49,1,2025-04-08,49,Dobrodružství se zvířátky,Dětská,258,Praha,39,Muž,258
+DUB1005,82,8,1,2025-04-03,8,Srdce v plamenech,Román,289,Plzeň,19,Muž,289
+DUB1005,82,53,1,2025-04-03,53,Oheň a drak,Fantasy,289,Plzeň,19,Muž,289
+DUB1006,37,44,1,2025-04-26,44,Oheň a drak,Fantasy,659,Praha,55,Žena,659
+DUB1006,37,20,1,2025-04-26,20,Kouzelná říše,Fantasy,251,Praha,55,Žena,251
+DUB1006,37,88,1,2025-04-26,88,Stín draka,Fantasy,398,Praha,55,Žena,398
+DUB1007,121,81,1,2025-04-04,81,Nečekaný osud,Román,644,Hradec Králové,30,Muž,644
+DUB1008,66,38,1,2025-04-12,38,Kouzelná říše,Fantasy,398,Olomouc,45,Žena,398
+DUB1008,66,22,1,2025-04-12,22,Kouzelný autobus,Dětská,366,Olomouc,45,Žena,366
+DUB1009,162,16,1,2025-04-05,16,Temnota u jezera,Detektivka,654,Praha,59,Žena,654
+DUB1009,162,68,1,2025-04-05,68,Osudová přitažlivost,Román,298,Praha,59,Žena,298
+DUB1009,162,7,1,2025-04-05,7,Láska na druhý pokus,Román,234,Praha,59,Žena,234
+DUB1009,162,58,1,2025-04-05,58,Učebnice empatie,Učebnice,289,Praha,59,Žena,289
+DUB1009,162,50,1,2025-04-05,50,Jak funguje internet,Učebnice,263,Praha,59,Žena,263
+DUB1010,65,37,1,2025-04-25,37,Létající kolo,Dětská,291,Hradec Králové,21,Muž,291
+DUB1010,65,97,1,2025-04-25,97,Malý drak a moře,Dětská,367,Hradec Králové,21,Muž,367
+DUB1011,163,26,1,2025-04-21,26,Píseň kouzel,Fantasy,555,Brno,47,Muž,555
+DUB1011,163,93,1,2025-04-21,93,Jak přežít pondělí,Učebnice,359,Brno,47,Muž,359
+DUB1011,163,36,1,2025-04-21,36,Prsten věčnosti,Fantasy,300,Brno,47,Muž,300
+DUB1011,163,25,1,2025-04-21,25,Magie v žilách,Fantasy,587,Brno,47,Muž,587
+DUB1012,12,28,1,2025-04-05,28,Létající kolo,Dětská,655,Liberec,26,Žena,655
+DUB1012,12,50,1,2025-04-05,50,Jak funguje internet,Učebnice,263,Liberec,26,Žena,263
+DUB1012,12,100,1,2025-04-05,100,Vražda na kolejích,Detektivka,263,Liberec,26,Žena,263
+DUB1013,140,7,1,2025-04-17,7,Láska na druhý pokus,Román,234,Hradec Králové,67,Žena,234
+DUB1013,140,19,1,2025-04-17,19,Tajemství prstenu,Fantasy,298,Hradec Králové,67,Žena,298
+DUB1013,140,16,1,2025-04-17,16,Temnota u jezera,Detektivka,654,Hradec Králové,67,Žena,654
+DUB1014,54,65,1,2025-04-01,65,Jak pejsek zachránil svět,Dětská,446,Ostrava,36,Muž,446
+DUB1014,54,44,1,2025-04-01,44,Oheň a drak,Fantasy,659,Ostrava,36,Muž,659
+DUB1014,54,73,1,2025-04-01,73,Průvodce lesem,Učebnice,421,Ostrava,36,Muž,421
+DUB1015,74,67,1,2025-04-21,67,Jak přežít pondělí,Učebnice,365,Liberec,53,Muž,365
+DUB1015,74,88,1,2025-04-21,88,Stín draka,Fantasy,398,Liberec,53,Muž,398
+DUB1015,74,72,1,2025-04-21,72,Legenda o draku,Fantasy,366,Liberec,53,Muž,366
+DUB1016,172,23,1,2025-04-15,23,Nečekaný osud,Román,421,Hradec Králové,19,Muž,421
+DUB1016,172,96,1,2025-04-15,96,Láska a víno,Román,357,Hradec Králové,19,Muž,357
+DUB1016,172,9,1,2025-04-15,9,Tajemství dětské knihy,Dětská,298,Hradec Králové,19,Muž,298
+DUB1016,172,78,1,2025-04-15,78,Děti z planety Alfa,Dětská,655,Hradec Králové,19,Muž,655
+DUB1017,23,6,1,2025-04-24,6,Temnota u jezera,Detektivka,487,Ostrava,47,Muž,487
+DUB1017,23,59,1,2025-04-24,59,Záhada nočního vlaku,Detektivka,298,Ostrava,47,Muž,298
+DUB1018,29,43,1,2025-04-21,43,Jak vyzrát na stres,Učebnice,359,Plzeň,31,Žena,359
+DUB1019,48,59,1,2025-04-05,59,Záhada nočního vlaku,Detektivka,298,Brno,60,Žena,298
+DUB1019,48,91,1,2025-04-05,91,Učebnice klidu,Učebnice,456,Brno,60,Žena,456
+DUB1019,48,70,1,2025-04-05,70,Jak ušetřit čas,Učebnice,251,Brno,60,Žena,251
+DUB1020,154,22,1,2025-04-20,22,Kouzelný autobus,Dětská,366,Ostrava,66,Žena,366
+DUB1020,154,95,1,2025-04-20,95,Jak vyzrát na stres,Učebnice,258,Ostrava,66,Žena,258
+DUB1020,154,11,1,2025-04-20,11,Nečekaný osud,Román,365,Ostrava,66,Žena,365
+DUB1020,154,17,1,2025-04-20,17,Smrt v horách,Detektivka,365,Ostrava,66,Žena,365
+DUB1020,154,64,1,2025-04-20,64,Noc v podzemí,Detektivka,355,Ostrava,66,Žena,355
+DUB1020,154,86,1,2025-04-20,86,Cesta za láskou,Román,300,Ostrava,66,Žena,300
+DUB1021,146,42,1,2025-04-28,42,Jak vyzrát na stres,Učebnice,564,Plzeň,62,Muž,564
+DUB1021,146,21,1,2025-04-28,21,Jak vyzrát na stres,Učebnice,397,Plzeň,62,Muž,397
+DUB1021,146,4,1,2025-04-28,4,Srdce v zimě,Román,541,Plzeň,62,Muž,541
+DUB1021,146,99,1,2025-04-28,99,Krvavé léto,Detektivka,258,Plzeň,62,Muž,258
+DUB1021,146,70,1,2025-04-28,70,Jak ušetřit čas,Učebnice,251,Plzeň,62,Muž,251
+DUB1021,146,34,1,2025-04-28,34,Temnota u jezera,Detektivka,398,Plzeň,62,Muž,398
+DUB1022,7,30,1,2025-04-03,30,Pohádky pod peřinu,Dětská,259,Praha,63,Muž,259
+DUB1023,147,29,1,2025-04-05,29,O statečném zajíčkovi,Dětská,354,Olomouc,31,Muž,354
+DUB1023,147,74,1,2025-04-05,74,Kouzelná říše,Fantasy,198,Olomouc,31,Muž,198
+DUB1023,147,45,1,2025-04-05,45,Zlomené srdce,Román,258,Olomouc,31,Muž,258
+DUB1024,97,50,1,2025-04-19,50,Jak funguje internet,Učebnice,263,Ostrava,64,Žena,263
+DUB1025,126,83,1,2025-04-13,83,Vražda na kolejích,Detektivka,354,Plzeň,43,Muž,354
+DUB1025,126,4,1,2025-04-13,4,Srdce v zimě,Román,541,Plzeň,43,Muž,541
+DUB1025,126,25,1,2025-04-13,25,Magie v žilách,Fantasy,587,Plzeň,43,Muž,587
+DUB1026,1,3,1,2025-04-14,3,Cesta za láskou,Román,289,Ostrava,43,Žena,289
+DUB1026,1,17,1,2025-04-14,17,Smrt v horách,Detektivka,365,Ostrava,43,Žena,365
+DUB1027,127,45,1,2025-04-26,45,Zlomené srdce,Román,258,Brno,59,Muž,258
+DUB1027,127,25,1,2025-04-26,25,Magie v žilách,Fantasy,587,Brno,59,Muž,587
+DUB1028,45,64,1,2025-04-08,64,Noc v podzemí,Detektivka,355,Olomouc,55,Žena,355
+DUB1029,136,39,1,2025-04-21,39,Ticho před smrtí,Detektivka,374,Hradec Králové,53,Žena,374
+DUB1029,136,22,1,2025-04-21,22,Kouzelný autobus,Dětská,366,Hradec Králové,53,Žena,366
+DUB1029,136,94,1,2025-04-21,94,Smrt v horách,Detektivka,659,Hradec Králové,53,Žena,659
+DUB1029,136,23,1,2025-04-21,23,Nečekaný osud,Román,421,Hradec Králové,53,Žena,421
+DUB1029,136,53,1,2025-04-21,53,Oheň a drak,Fantasy,289,Hradec Králové,53,Žena,289
+DUB1030,148,73,1,2025-04-08,73,Průvodce lesem,Učebnice,421,Plzeň,44,Žena,421
+DUB1030,148,45,1,2025-04-08,45,Zlomené srdce,Román,258,Plzeň,44,Žena,258
+DUB1030,148,21,1,2025-04-08,21,Jak vyzrát na stres,Učebnice,397,Plzeň,44,Žena,397
+DUB1031,63,83,1,2025-04-20,83,Vražda na kolejích,Detektivka,354,Olomouc,58,Žena,354
+DUB1031,63,58,1,2025-04-20,58,Učebnice empatie,Učebnice,289,Olomouc,58,Žena,289
+DUB1031,63,64,1,2025-04-20,64,Noc v podzemí,Detektivka,355,Olomouc,58,Žena,355
+DUB1032,120,81,1,2025-04-24,81,Nečekaný osud,Román,644,Olomouc,37,Muž,644
+DUB1032,120,19,1,2025-04-24,19,Tajemství prstenu,Fantasy,298,Olomouc,37,Muž,298
+DUB1032,120,86,1,2025-04-24,86,Cesta za láskou,Román,300,Olomouc,37,Muž,300
+DUB1033,160,25,1,2025-04-25,25,Magie v žilách,Fantasy,587,Brno,57,Muž,587
+DUB1033,160,31,1,2025-04-25,31,Draci severu,Fantasy,644,Brno,57,Muž,644
+DUB1033,160,82,1,2025-04-25,82,Záhada nočního vlaku,Detektivka,254,Brno,57,Muž,254
+DUB1033,160,15,1,2025-04-25,15,Ticho před smrtí,Detektivka,446,Brno,57,Muž,446
+DUB1033,160,40,1,2025-04-25,40,Vražda na kolejích,Detektivka,251,Brno,57,Muž,251
+DUB1034,105,25,1,2025-04-01,25,Magie v žilách,Fantasy,587,Liberec,37,Žena,587
+DUB1034,105,11,1,2025-04-01,11,Nečekaný osud,Román,365,Liberec,37,Žena,365
+DUB1034,105,96,1,2025-04-01,96,Láska a víno,Román,357,Liberec,37,Žena,357
+DUB1035,14,24,1,2025-04-29,24,Oheň a drak,Fantasy,198,Hradec Králové,44,Muž,198
+DUB1035,14,6,1,2025-04-29,6,Temnota u jezera,Detektivka,487,Hradec Králové,44,Muž,487
+DUB1035,14,39,1,2025-04-29,39,Ticho před smrtí,Detektivka,374,Hradec Králové,44,Muž,374
+DUB1036,34,93,1,2025-04-07,93,Jak přežít pondělí,Učebnice,359,Brno,30,Žena,359
+DUB1036,34,85,1,2025-04-07,85,Legenda o draku,Fantasy,254,Brno,30,Žena,254
+DUB1037,151,35,1,2025-04-24,35,Smrt v horách,Detektivka,254,Plzeň,67,Muž,254
+DUB1037,151,2,1,2025-04-24,2,Stín draka,Fantasy,264,Plzeň,67,Muž,264
+DUB1037,151,11,1,2025-04-24,11,Nečekaný osud,Román,365,Plzeň,67,Muž,365
+DUB1037,151,29,1,2025-04-24,29,O statečném zajíčkovi,Dětská,354,Plzeň,67,Muž,354
+DUB1038,16,78,1,2025-04-10,78,Děti z planety Alfa,Dětská,655,Ostrava,45,Žena,655
+DUB1038,16,10,1,2025-04-10,10,Jak vyzrát na stres,Učebnice,698,Ostrava,45,Žena,698
+DUB1039,158,64,1,2025-04-26,64,Noc v podzemí,Detektivka,355,Plzeň,39,Žena,355
+DUB1039,158,36,1,2025-04-26,36,Prsten věčnosti,Fantasy,300,Plzeň,39,Žena,300
+DUB1039,158,28,1,2025-04-26,28,Létající kolo,Dětská,655,Plzeň,39,Žena,655
+DUB1040,111,49,1,2025-04-16,49,Dobrodružství se zvířátky,Dětská,258,Plzeň,53,Muž,258
+DUB1041,124,9,1,2025-04-04,9,Tajemství dětské knihy,Dětská,298,Plzeň,44,Muž,298
+DUB1041,124,86,1,2025-04-04,86,Cesta za láskou,Román,300,Plzeň,44,Muž,300
+DUB1042,98,54,1,2025-04-16,54,Draci severu,Fantasy,541,Plzeň,56,Muž,541
+DUB1043,166,78,1,2025-04-17,78,Děti z planety Alfa,Dětská,655,Ostrava,39,Žena,655
+DUB1043,166,1,1,2025-04-17,1,Krvavý měsíc,Detektivka,354,Ostrava,39,Žena,354
+DUB1043,166,53,1,2025-04-17,53,Oheň a drak,Fantasy,289,Ostrava,39,Žena,289
+DUB1044,112,17,1,2025-04-12,17,Smrt v horách,Detektivka,365,Ostrava,36,Muž,365
+DUB1045,55,90,1,2025-04-05,90,Děti z planety Alfa,Dětská,251,Plzeň,52,Žena,251
+DUB1045,55,75,1,2025-04-05,75,Vrah beze jména,Detektivka,587,Plzeň,52,Žena,587
+DUB1046,145,79,1,2025-04-28,79,Tajemství dětské knihy,Dětská,354,Brno,27,Muž,354
+DUB1046,145,6,1,2025-04-28,6,Temnota u jezera,Detektivka,487,Brno,27,Muž,487
+DUB1046,145,23,1,2025-04-28,23,Nečekaný osud,Román,421,Brno,27,Muž,421
+DUB1046,145,26,1,2025-04-28,26,Píseň kouzel,Fantasy,555,Brno,27,Muž,555
+DUB1046,145,96,1,2025-04-28,96,Láska a víno,Román,357,Brno,27,Muž,357
+DUB1046,145,8,1,2025-04-28,8,Srdce v plamenech,Román,289,Brno,27,Muž,289
+DUB1047,169,26,1,2025-04-12,26,Píseň kouzel,Fantasy,555,Praha,65,Muž,555
+DUB1047,169,15,1,2025-04-12,15,Ticho před smrtí,Detektivka,446,Praha,65,Muž,446
+DUB1047,169,62,1,2025-04-12,62,O statečném zajíčkovi,Dětská,155,Praha,65,Muž,155
+DUB1047,169,28,1,2025-04-12,28,Létající kolo,Dětská,655,Praha,65,Muž,655
+DUB1047,169,51,1,2025-04-12,51,Píseň kouzel,Fantasy,354,Praha,65,Muž,354
+DUB1047,169,71,1,2025-04-12,71,Tajemství dětské knihy,Dětská,397,Praha,65,Muž,397
+DUB1048,81,26,1,2025-04-22,26,Píseň kouzel,Fantasy,555,Brno,28,Muž,555
+DUB1048,81,75,1,2025-04-22,75,Vrah beze jména,Detektivka,587,Brno,28,Muž,587
+DUB1048,81,89,1,2025-04-22,89,Draci severu,Fantasy,374,Brno,28,Muž,374
+DUB1049,161,59,1,2025-04-25,59,Záhada nočního vlaku,Detektivka,298,Plzeň,55,Muž,298
+DUB1049,161,39,1,2025-04-25,39,Ticho před smrtí,Detektivka,374,Plzeň,55,Muž,374
+DUB1049,161,19,1,2025-04-25,19,Tajemství prstenu,Fantasy,298,Plzeň,55,Muž,298
+DUB1049,161,81,1,2025-04-25,81,Nečekaný osud,Román,644,Plzeň,55,Muž,644
+DUB1050,39,72,1,2025-04-25,72,Legenda o draku,Fantasy,366,Praha,50,Muž,366
+DUB1050,39,66,1,2025-04-25,66,Krvavý měsíc,Detektivka,654,Praha,50,Muž,654
+DUB1051,164,90,1,2025-04-01,90,Děti z planety Alfa,Dětská,251,Praha,34,Žena,251
+DUB1051,164,88,1,2025-04-01,88,Stín draka,Fantasy,398,Praha,34,Žena,398
+DUB1051,164,97,1,2025-04-01,97,Malý drak a moře,Dětská,367,Praha,34,Žena,367
+DUB1052,6,43,1,2025-04-03,43,Jak vyzrát na stres,Učebnice,359,Liberec,32,Muž,359
+DUB1052,6,92,1,2025-04-03,92,Dobrodružství se zvířátky,Dětská,564,Liberec,32,Muž,564
+DUB1052,6,27,1,2025-04-03,27,Temnota u jezera,Detektivka,666,Liberec,32,Muž,666
+DUB1053,134,80,1,2025-04-09,80,Stín draka,Fantasy,259,Olomouc,51,Žena,259
+DUB1054,52,27,1,2025-04-02,27,Temnota u jezera,Detektivka,666,Liberec,34,Muž,666
+DUB1055,141,71,1,2025-04-26,71,Tajemství dětské knihy,Dětská,397,Olomouc,33,Žena,397
+DUB1055,141,13,1,2025-04-26,13,Tajemství dětské knihy,Dětská,684,Olomouc,33,Žena,684
+DUB1055,141,48,1,2025-04-26,48,Láska na druhý pokus,Román,248,Olomouc,33,Žena,248
+DUB1056,84,68,1,2025-04-17,68,Osudová přitažlivost,Román,298,Hradec Králové,60,Muž,298
+DUB1056,84,72,1,2025-04-17,72,Legenda o draku,Fantasy,366,Hradec Králové,60,Muž,366
+DUB1057,25,48,1,2025-04-21,48,Láska na druhý pokus,Román,248,Hradec Králové,53,Muž,248
+DUB1057,25,37,1,2025-04-21,37,Létající kolo,Dětská,291,Hradec Králové,53,Muž,291
+DUB1058,106,27,1,2025-04-17,27,Temnota u jezera,Detektivka,666,Ostrava,43,Žena,666
+DUB1058,106,28,1,2025-04-17,28,Létající kolo,Dětská,655,Ostrava,43,Žena,655
+DUB1058,106,69,1,2025-04-17,69,Nečekaný osud,Román,298,Ostrava,43,Žena,298
+DUB1059,28,100,1,2025-04-14,100,Vražda na kolejích,Detektivka,263,Brno,44,Žena,263
+DUB1059,28,30,1,2025-04-14,30,Pohádky pod peřinu,Dětská,259,Brno,44,Žena,259
+DUB1060,171,30,1,2025-04-03,30,Pohádky pod peřinu,Dětská,259,Hradec Králové,59,Muž,259
+DUB1060,171,47,1,2025-04-03,47,Jak pochopit data,Učebnice,367,Hradec Králové,59,Muž,367
+DUB1060,171,89,1,2025-04-03,89,Draci severu,Fantasy,374,Hradec Králové,59,Muž,374
+DUB1060,171,22,1,2025-04-03,22,Kouzelný autobus,Dětská,366,Hradec Králové,59,Muž,366
+DUB1060,171,90,1,2025-04-03,90,Děti z planety Alfa,Dětská,251,Hradec Králové,59,Muž,251
+DUB1060,171,83,1,2025-04-03,83,Vražda na kolejích,Detektivka,354,Hradec Králové,59,Muž,354
+DUB1061,152,22,1,2025-04-09,22,Kouzelný autobus,Dětská,366,Hradec Králové,66,Žena,366
+DUB1061,152,40,1,2025-04-09,40,Vražda na kolejích,Detektivka,251,Hradec Králové,66,Žena,251
+DUB1061,152,57,1,2025-04-09,57,Pohádky pod peřinu,Dětská,234,Hradec Králové,66,Žena,234
+DUB1061,152,35,1,2025-04-09,35,Smrt v horách,Detektivka,254,Hradec Králové,66,Žena,254
+DUB1062,51,27,1,2025-04-10,27,Temnota u jezera,Detektivka,666,Praha,52,Muž,666
+DUB1063,170,37,1,2025-04-17,37,Létající kolo,Dětská,291,Ostrava,32,Muž,291
+DUB1063,170,10,1,2025-04-17,10,Jak vyzrát na stres,Učebnice,698,Ostrava,32,Muž,698
+DUB1063,170,15,1,2025-04-17,15,Ticho před smrtí,Detektivka,446,Ostrava,32,Muž,446
+DUB1064,31,69,1,2025-04-26,69,Nečekaný osud,Román,298,Praha,42,Žena,298
+DUB1065,143,34,1,2025-04-18,34,Temnota u jezera,Detektivka,398,Brno,35,Žena,398
+DUB1065,143,40,1,2025-04-18,40,Vražda na kolejích,Detektivka,251,Brno,35,Žena,251
+DUB1065,143,70,1,2025-04-18,70,Jak ušetřit čas,Učebnice,251,Brno,35,Žena,251
+DUB1065,143,39,1,2025-04-18,39,Ticho před smrtí,Detektivka,374,Brno,35,Žena,374
+DUB1066,13,41,1,2025-04-13,41,Legenda o draku,Fantasy,456,Brno,68,Žena,456
+DUB1066,13,81,1,2025-04-13,81,Nečekaný osud,Román,644,Brno,68,Žena,644
+DUB1067,56,49,1,2025-04-21,49,Dobrodružství se zvířátky,Dětská,258,Liberec,69,Muž,258
+DUB1067,56,57,1,2025-04-21,57,Pohádky pod peřinu,Dětská,234,Liberec,69,Muž,234
+DUB1067,56,67,1,2025-04-21,67,Jak přežít pondělí,Učebnice,365,Liberec,69,Muž,365
+DUB1068,35,88,1,2025-04-22,88,Stín draka,Fantasy,398,Brno,21,Muž,398
+DUB1068,35,53,1,2025-04-22,53,Oheň a drak,Fantasy,289,Brno,21,Muž,289
+DUB1068,35,99,1,2025-04-22,99,Krvavé léto,Detektivka,258,Brno,21,Muž,258
+DUB1069,110,11,1,2025-04-03,11,Nečekaný osud,Román,365,Liberec,54,Žena,365
+DUB1069,110,12,1,2025-04-03,12,Kouzelná říše,Fantasy,155,Liberec,54,Žena,155
+DUB1069,110,98,1,2025-04-03,98,Vrah beze jména,Detektivka,248,Liberec,54,Žena,248
+DUB1070,144,67,1,2025-04-23,67,Jak přežít pondělí,Učebnice,365,Ostrava,52,Muž,365
+DUB1070,144,36,1,2025-04-23,36,Prsten věčnosti,Fantasy,300,Ostrava,52,Muž,300
+DUB1070,144,46,1,2025-04-23,46,Krvavé léto,Detektivka,357,Ostrava,52,Muž,357
+DUB1070,144,75,1,2025-04-23,75,Vrah beze jména,Detektivka,587,Ostrava,52,Muž,587
+DUB1070,144,95,1,2025-04-23,95,Jak vyzrát na stres,Učebnice,258,Ostrava,52,Muž,258
+DUB1071,149,98,1,2025-04-24,98,Vrah beze jména,Detektivka,248,Liberec,47,Žena,248
+DUB1071,149,62,1,2025-04-24,62,O statečném zajíčkovi,Dětská,155,Liberec,47,Žena,155
+DUB1071,149,88,1,2025-04-24,88,Stín draka,Fantasy,398,Liberec,47,Žena,398
+DUB1071,149,83,1,2025-04-24,83,Vražda na kolejích,Detektivka,354,Liberec,47,Žena,354
+DUB1071,149,13,1,2025-04-24,13,Tajemství dětské knihy,Dětská,684,Liberec,47,Žena,684
+DUB1071,149,78,1,2025-04-24,78,Děti z planety Alfa,Dětská,655,Liberec,47,Žena,655
+DUB1072,61,38,1,2025-04-02,38,Kouzelná říše,Fantasy,398,Ostrava,36,Muž,398
+DUB1073,139,51,1,2025-04-03,51,Píseň kouzel,Fantasy,354,Hradec Králové,58,Žena,354
+DUB1073,139,96,1,2025-04-03,96,Láska a víno,Román,357,Hradec Králové,58,Žena,357
+DUB1073,139,14,1,2025-04-03,14,Kouzla a meče,Fantasy,355,Hradec Králové,58,Žena,355
+DUB1073,139,87,1,2025-04-03,87,Osudová přitažlivost,Román,291,Hradec Králové,58,Žena,291
+DUB1074,153,30,1,2025-04-04,30,Pohádky pod peřinu,Dětská,259,Plzeň,18,Žena,259
+DUB1074,153,75,1,2025-04-04,75,Vrah beze jména,Detektivka,587,Plzeň,18,Žena,587
+DUB1074,153,1,1,2025-04-04,1,Krvavý měsíc,Detektivka,354,Plzeň,18,Žena,354
+DUB1074,153,14,1,2025-04-04,14,Kouzla a meče,Fantasy,355,Plzeň,18,Žena,355
+DUB1074,153,58,1,2025-04-04,58,Učebnice empatie,Učebnice,289,Plzeň,18,Žena,289
+DUB1074,153,35,1,2025-04-04,35,Smrt v horách,Detektivka,254,Plzeň,18,Žena,254
+DUB1075,68,28,1,2025-04-20,28,Létající kolo,Dětská,655,Hradec Králové,26,Žena,655
+DUB1075,68,8,1,2025-04-20,8,Srdce v plamenech,Román,289,Hradec Králové,26,Žena,289
+DUB1076,57,7,1,2025-04-02,7,Láska na druhý pokus,Román,234,Olomouc,70,Žena,234
+DUB1076,57,46,1,2025-04-02,46,Krvavé léto,Detektivka,357,Olomouc,70,Žena,357
+DUB1076,57,76,1,2025-04-02,76,Láska bez hranic,Román,555,Olomouc,70,Žena,555
+DUB1077,79,50,1,2025-04-22,50,Jak funguje internet,Učebnice,263,Hradec Králové,53,Žena,263
+DUB1077,79,20,1,2025-04-22,20,Kouzelná říše,Fantasy,251,Hradec Králové,53,Žena,251
+DUB1078,142,51,1,2025-04-04,51,Píseň kouzel,Fantasy,354,Plzeň,22,Žena,354
+DUB1078,142,73,1,2025-04-04,73,Průvodce lesem,Učebnice,421,Plzeň,22,Žena,421
+DUB1078,142,79,1,2025-04-04,79,Tajemství dětské knihy,Dětská,354,Plzeň,22,Žena,354
+DUB1078,142,53,1,2025-04-04,53,Oheň a drak,Fantasy,289,Plzeň,22,Žena,289
+DUB1079,94,26,1,2025-04-23,26,Píseň kouzel,Fantasy,555,Praha,25,Žena,555
+DUB1080,9,15,1,2025-04-23,15,Ticho před smrtí,Detektivka,446,Hradec Králové,39,Muž,446
+DUB1081,96,23,1,2025-04-06,23,Nečekaný osud,Román,421,Praha,24,Žena,421
+DUB1082,5,45,1,2025-04-12,45,Zlomené srdce,Román,258,Liberec,53,Muž,258
+DUB1082,5,21,1,2025-04-12,21,Jak vyzrát na stres,Učebnice,397,Liberec,53,Muž,397
+DUB1083,101,8,1,2025-04-17,8,Srdce v plamenech,Román,289,Praha,51,Muž,289
+DUB1083,101,66,1,2025-04-17,66,Krvavý měsíc,Detektivka,654,Praha,51,Muž,654
+DUB1083,101,34,1,2025-04-17,34,Temnota u jezera,Detektivka,398,Praha,51,Muž,398
+DUB1084,132,92,1,2025-04-09,92,Dobrodružství se zvířátky,Dětská,564,Hradec Králové,25,Žena,564
+DUB1084,132,84,1,2025-04-09,84,Stín draka,Fantasy,398,Hradec Králové,25,Žena,398
+DUB1084,132,60,1,2025-04-09,60,Princezna a mrkev,Dětská,698,Hradec Králové,25,Žena,698
+DUB1085,129,65,1,2025-04-12,65,Jak pejsek zachránil svět,Dětská,446,Hradec Králové,45,Muž,446
+DUB1086,71,77,1,2025-04-24,77,Dobrodružství se zvířátky,Dětská,666,Liberec,18,Muž,666
+DUB1087,11,39,1,2025-04-24,39,Ticho před smrtí,Detektivka,374,Olomouc,49,Muž,374
+DUB1087,11,97,1,2025-04-24,97,Malý drak a moře,Dětská,367,Olomouc,49,Muž,367
+DUB1088,47,85,1,2025-04-25,85,Legenda o draku,Fantasy,254,Brno,34,Žena,254
+DUB1089,40,55,1,2025-04-11,55,Jak pejsek zachránil svět,Dětská,398,Hradec Králové,29,Muž,398
+DUB1090,118,36,1,2025-04-09,36,Prsten věčnosti,Fantasy,300,Liberec,60,Žena,300
+DUB1090,118,58,1,2025-04-09,58,Učebnice empatie,Učebnice,289,Liberec,60,Žena,289
+DUB1091,26,99,1,2025-04-03,99,Krvavé léto,Detektivka,258,Praha,59,Muž,258
+DUB1091,26,73,1,2025-04-03,73,Průvodce lesem,Učebnice,421,Praha,59,Muž,421
+DUB1091,26,26,1,2025-04-03,26,Píseň kouzel,Fantasy,555,Praha,59,Muž,555
+DUB1092,43,42,1,2025-04-23,42,Jak vyzrát na stres,Učebnice,564,Liberec,56,Muž,564
+DUB1092,43,31,1,2025-04-23,31,Draci severu,Fantasy,644,Liberec,56,Muž,644
+DUB1093,27,13,1,2025-04-21,13,Tajemství dětské knihy,Dětská,684,Praha,66,Muž,684
+DUB1093,27,81,1,2025-04-21,81,Nečekaný osud,Román,644,Praha,66,Muž,644
+DUB1093,27,24,1,2025-04-21,24,Oheň a drak,Fantasy,198,Praha,66,Muž,198
+DUB1094,131,59,1,2025-04-16,59,Záhada nočního vlaku,Detektivka,298,Praha,53,Muž,298
+DUB1095,41,61,1,2025-04-17,61,Magie v žilách,Fantasy,365,Liberec,22,Muž,365
+DUB1095,41,85,1,2025-04-17,85,Legenda o draku,Fantasy,254,Liberec,22,Muž,254
+DUB1096,10,25,1,2025-04-02,25,Magie v žilách,Fantasy,587,Liberec,33,Žena,587
+DUB1096,10,46,1,2025-04-02,46,Krvavé léto,Detektivka,357,Liberec,33,Žena,357
+DUB1097,116,72,1,2025-04-28,72,Legenda o draku,Fantasy,366,Hradec Králové,68,Muž,366
+DUB1097,116,91,1,2025-04-28,91,Učebnice klidu,Učebnice,456,Hradec Králové,68,Muž,456
+DUB1098,86,43,1,2025-04-06,43,Jak vyzrát na stres,Učebnice,359,Plzeň,20,Žena,359
+DUB1098,86,3,1,2025-04-06,3,Cesta za láskou,Román,289,Plzeň,20,Žena,289
+DUB1098,86,16,1,2025-04-06,16,Temnota u jezera,Detektivka,654,Plzeň,20,Žena,654
+DUB1099,119,92,1,2025-04-06,92,Dobrodružství se zvířátky,Dětská,564,Praha,70,Muž,564
+DUB1099,119,58,1,2025-04-06,58,Učebnice empatie,Učebnice,289,Praha,70,Muž,289
+DUB1100,168,59,1,2025-04-25,59,Záhada nočního vlaku,Detektivka,298,Ostrava,23,Žena,298
+DUB1100,168,57,1,2025-04-25,57,Pohádky pod peřinu,Dětská,234,Ostrava,23,Žena,234
+DUB1100,168,6,1,2025-04-25,6,Temnota u jezera,Detektivka,487,Ostrava,23,Žena,487
+DUB1100,168,52,1,2025-04-25,52,Létající kolo,Dětská,264,Ostrava,23,Žena,264
+DUB1100,168,70,1,2025-04-25,70,Jak ušetřit čas,Učebnice,251,Ostrava,23,Žena,251
+DUB1101,109,93,1,2025-04-29,93,Jak přežít pondělí,Učebnice,359,Olomouc,65,Muž,359
+DUB1102,17,46,1,2025-04-22,46,Krvavé léto,Detektivka,357,Plzeň,64,Muž,357
+DUB1102,17,72,1,2025-04-22,72,Legenda o draku,Fantasy,366,Plzeň,64,Muž,366
+DUB1102,17,98,1,2025-04-22,98,Vrah beze jména,Detektivka,248,Plzeň,64,Muž,248
+DUB1103,46,10,1,2025-04-04,10,Jak vyzrát na stres,Učebnice,698,Ostrava,31,Žena,698
+DUB1103,46,13,1,2025-04-04,13,Tajemství dětské knihy,Dětská,684,Ostrava,31,Žena,684
+DUB1103,46,98,1,2025-04-04,98,Vrah beze jména,Detektivka,248,Ostrava,31,Žena,248
+DUB1104,78,95,1,2025-04-24,95,Jak vyzrát na stres,Učebnice,258,Olomouc,24,Žena,258
+DUB1105,99,33,1,2025-04-01,33,Srdce v zimě,Román,354,Plzeň,54,Muž,354
+DUB1105,99,29,1,2025-04-01,29,O statečném zajíčkovi,Dětská,354,Plzeň,54,Muž,354
+DUB1105,99,93,1,2025-04-01,93,Jak přežít pondělí,Učebnice,359,Plzeň,54,Muž,359
+DUB1106,165,17,1,2025-04-28,17,Smrt v horách,Detektivka,365,Ostrava,31,Žena,365
+DUB1106,165,82,1,2025-04-28,82,Záhada nočního vlaku,Detektivka,254,Ostrava,31,Žena,254
+DUB1106,165,9,1,2025-04-28,9,Tajemství dětské knihy,Dětská,298,Ostrava,31,Žena,298
+DUB1107,44,48,1,2025-04-08,48,Láska na druhý pokus,Román,248,Liberec,23,Žena,248
+DUB1108,18,21,1,2025-04-16,21,Jak vyzrát na stres,Učebnice,397,Olomouc,59,Muž,397
+DUB1109,137,75,1,2025-04-13,75,Vrah beze jména,Detektivka,587,Brno,65,Žena,587
+DUB1109,137,46,1,2025-04-13,46,Krvavé léto,Detektivka,357,Brno,65,Žena,357
+DUB1109,137,58,1,2025-04-13,58,Učebnice empatie,Učebnice,289,Brno,65,Žena,289
+DUB1109,137,57,1,2025-04-13,57,Pohádky pod peřinu,Dětská,234,Brno,65,Žena,234
+DUB1109,137,37,1,2025-04-13,37,Létající kolo,Dětská,291,Brno,65,Žena,291
+DUB1110,32,89,1,2025-04-06,89,Draci severu,Fantasy,374,Hradec Králové,68,Žena,374
+DUB1111,157,57,1,2025-04-18,57,Pohádky pod peřinu,Dětská,234,Plzeň,49,Muž,234
+DUB1111,157,21,1,2025-04-18,21,Jak vyzrát na stres,Učebnice,397,Plzeň,49,Muž,397
+DUB1111,157,39,1,2025-04-18,39,Ticho před smrtí,Detektivka,374,Plzeň,49,Muž,374
+DUB1112,138,49,1,2025-04-08,49,Dobrodružství se zvířátky,Dětská,258,Plzeň,34,Muž,258
+DUB1112,138,12,1,2025-04-08,12,Kouzelná říše,Fantasy,155,Plzeň,34,Muž,155
+DUB1112,138,23,1,2025-04-08,23,Nečekaný osud,Román,421,Plzeň,34,Muž,421
+DUB1112,138,87,1,2025-04-08,87,Osudová přitažlivost,Román,291,Plzeň,34,Muž,291
+DUB1112,138,8,1,2025-04-08,8,Srdce v plamenech,Román,289,Plzeň,34,Muž,289
+DUB1112,138,27,1,2025-04-08,27,Temnota u jezera,Detektivka,666,Plzeň,34,Muž,666
+DUB1113,159,32,1,2025-04-08,32,Krvavé léto,Detektivka,254,Olomouc,28,Žena,254
+DUB1113,159,26,1,2025-04-08,26,Píseň kouzel,Fantasy,555,Olomouc,28,Žena,555
+DUB1113,159,8,1,2025-04-08,8,Srdce v plamenech,Román,289,Olomouc,28,Žena,289
+DUB1113,159,82,1,2025-04-08,82,Záhada nočního vlaku,Detektivka,254,Olomouc,28,Žena,254
+DUB1113,159,66,1,2025-04-08,66,Krvavý měsíc,Detektivka,654,Olomouc,28,Žena,654
+DUB1114,36,33,1,2025-04-30,33,Srdce v zimě,Román,354,Olomouc,38,Muž,354
+DUB1114,36,61,1,2025-04-30,61,Magie v žilách,Fantasy,365,Olomouc,38,Muž,365
+DUB1115,90,3,1,2025-04-11,3,Cesta za láskou,Román,289,Plzeň,39,Žena,289
+DUB1115,90,70,1,2025-04-11,70,Jak ušetřit čas,Učebnice,251,Plzeň,39,Žena,251
+DUB1115,90,78,1,2025-04-11,78,Děti z planety Alfa,Dětská,655,Plzeň,39,Žena,655
+DUB1116,67,37,1,2025-04-27,37,Létající kolo,Dětská,291,Praha,18,Žena,291
+DUB1116,67,41,1,2025-04-27,41,Legenda o draku,Fantasy,456,Praha,18,Žena,456
+DUB1117,73,96,1,2025-04-19,96,Láska a víno,Román,357,Liberec,20,Žena,357
+DUB1118,114,65,1,2025-04-04,65,Jak pejsek zachránil svět,Dětská,446,Plzeň,46,Žena,446
+DUB1118,114,14,1,2025-04-04,14,Kouzla a meče,Fantasy,355,Plzeň,46,Žena,355
+DUB1119,77,28,1,2025-04-22,28,Létající kolo,Dětská,655,Ostrava,31,Muž,655
+DUB1119,77,6,1,2025-04-22,6,Temnota u jezera,Detektivka,487,Ostrava,31,Muž,487
+DUB1119,77,30,1,2025-04-22,30,Pohádky pod peřinu,Dětská,259,Ostrava,31,Muž,259
+DUB1120,70,25,1,2025-04-06,25,Magie v žilách,Fantasy,587,Liberec,63,Žena,587
+DUB1121,102,86,1,2025-04-26,86,Cesta za láskou,Román,300,Ostrava,45,Muž,300
+DUB1122,62,100,1,2025-04-02,100,Vražda na kolejích,Detektivka,263,Olomouc,39,Muž,263
+DUB1122,62,57,1,2025-04-02,57,Pohádky pod peřinu,Dětská,234,Olomouc,39,Muž,234
+DUB1122,62,17,1,2025-04-02,17,Smrt v horách,Detektivka,365,Olomouc,39,Muž,365
+DUB1123,156,77,1,2025-04-03,77,Dobrodružství se zvířátky,Dětská,666,Plzeň,32,Žena,666
+DUB1123,156,7,1,2025-04-03,7,Láska na druhý pokus,Román,234,Plzeň,32,Žena,234
+DUB1123,156,32,1,2025-04-03,32,Krvavé léto,Detektivka,254,Plzeň,32,Žena,254
+DUB1123,156,83,1,2025-04-03,83,Vražda na kolejích,Detektivka,354,Plzeň,32,Žena,354
+DUB1123,156,20,1,2025-04-03,20,Kouzelná říše,Fantasy,251,Plzeň,32,Žena,251
+DUB1123,156,48,1,2025-04-03,48,Láska na druhý pokus,Román,248,Plzeň,32,Žena,248
+DUB1124,19,79,1,2025-04-28,79,Tajemství dětské knihy,Dětská,354,Praha,43,Žena,354
+DUB1124,19,36,1,2025-04-28,36,Prsten věčnosti,Fantasy,300,Praha,43,Žena,300
+DUB1125,69,23,1,2025-04-25,23,Nečekaný osud,Román,421,Brno,65,Žena,421
+DUB1125,69,44,1,2025-04-25,44,Oheň a drak,Fantasy,659,Brno,65,Žena,659
+DUB1126,8,27,1,2025-04-11,27,Temnota u jezera,Detektivka,666,Brno,22,Muž,666
+DUB1126,8,31,1,2025-04-11,31,Draci severu,Fantasy,644,Brno,22,Muž,644
+DUB1127,150,56,1,2025-04-18,56,Nečekaný osud,Román,487,Praha,31,Žena,487
+DUB1127,150,62,1,2025-04-18,62,O statečném zajíčkovi,Dětská,155,Praha,31,Žena,155
+DUB1127,150,1,1,2025-04-18,1,Krvavý měsíc,Detektivka,354,Praha,31,Žena,354
+DUB1128,95,97,1,2025-04-01,97,Malý drak a moře,Dětská,367,Brno,55,Žena,367
+DUB1128,95,85,1,2025-04-01,85,Legenda o draku,Fantasy,254,Brno,55,Žena,254
+DUB1129,50,13,1,2025-04-07,13,Tajemství dětské knihy,Dětská,684,Praha,47,Muž,684
+DUB1129,50,46,1,2025-04-07,46,Krvavé léto,Detektivka,357,Praha,47,Muž,357
+ORD2173,173,16,1,2025-05-03,16,Temnota u jezera,Detektivka,654,Brno,19,Muž,654
+ORD2173,173,6,1,2025-05-03,6,Temnota u jezera,Detektivka,487,Brno,19,Muž,487
+ORD2173,173,60,1,2025-05-03,60,Princezna a mrkev,Dětská,698,Brno,19,Muž,698
+ORD2174,174,74,1,2025-05-02,74,Kouzelná říše,Fantasy,198,Brno,26,Žena,198
+ORD2174,174,56,1,2025-05-02,56,Nečekaný osud,Román,487,Brno,26,Žena,487
+ORD2175,175,64,1,2025-05-27,64,Noc v podzemí,Detektivka,355,Olomouc,25,Muž,355
+ORD2175,175,4,1,2025-05-27,4,Srdce v zimě,Román,541,Olomouc,25,Muž,541
+ORD2175,175,49,1,2025-05-27,49,Dobrodružství se zvířátky,Dětská,258,Olomouc,25,Muž,258
+ORD2175,175,88,1,2025-05-27,88,Stín draka,Fantasy,398,Olomouc,25,Muž,398
+ORD2176,176,46,1,2025-05-14,46,Krvavé léto,Detektivka,357,Plzeň,62,Žena,357
+ORD2176,176,28,1,2025-05-14,28,Létající kolo,Dětská,655,Plzeň,62,Žena,655
+ORD2177,177,36,1,2025-05-30,36,Prsten věčnosti,Fantasy,300,Hradec Králové,41,Muž,300
+ORD2177,177,58,1,2025-05-30,58,Učebnice empatie,Učebnice,289,Hradec Králové,41,Muž,289
+ORD2178,178,5,1,2025-05-29,5,Kouzla a meče,Fantasy,398,Liberec,56,Muž,398
+ORD2178,178,79,1,2025-05-29,79,Tajemství dětské knihy,Dětská,354,Liberec,56,Muž,354
+ORD2179,179,32,1,2025-05-20,32,Krvavé léto,Detektivka,254,Hradec Králové,70,Muž,254
+ORD2179,179,83,1,2025-05-20,83,Vražda na kolejích,Detektivka,354,Hradec Králové,70,Muž,354
+ORD2179,179,38,1,2025-05-20,38,Kouzelná říše,Fantasy,398,Hradec Králové,70,Muž,398
+ORD2179,179,64,1,2025-05-20,64,Noc v podzemí,Detektivka,355,Hradec Králové,70,Muž,355
+ORD2179,179,53,1,2025-05-20,53,Oheň a drak,Fantasy,289,Hradec Králové,70,Muž,289
+ORD2180,180,62,1,2025-05-29,62,O statečném zajíčkovi,Dětská,155,Ostrava,24,Muž,155
+ORD2180,180,8,1,2025-05-29,8,Srdce v plamenech,Román,289,Ostrava,24,Muž,289
+ORD2180,180,12,1,2025-05-29,12,Kouzelná říše,Fantasy,155,Ostrava,24,Muž,155
+ORD2180,180,36,1,2025-05-29,36,Prsten věčnosti,Fantasy,300,Ostrava,24,Muž,300
+ORD2180,180,50,1,2025-05-29,50,Jak funguje internet,Učebnice,263,Ostrava,24,Muž,263
+ORD2181,181,26,1,2025-05-05,26,Píseň kouzel,Fantasy,555,Ostrava,54,Žena,555
+ORD2181,181,83,1,2025-05-05,83,Vražda na kolejích,Detektivka,354,Ostrava,54,Žena,354
+ORD2181,181,68,1,2025-05-05,68,Osudová přitažlivost,Román,298,Ostrava,54,Žena,298
+ORD2181,181,32,1,2025-05-05,32,Krvavé léto,Detektivka,254,Ostrava,54,Žena,254
+ORD2182,182,3,1,2025-05-21,3,Cesta za láskou,Román,289,Plzeň,63,Muž,289
+ORD2182,182,49,1,2025-05-21,49,Dobrodružství se zvířátky,Dětská,258,Plzeň,63,Muž,258
+ORD2182,182,92,1,2025-05-21,92,Dobrodružství se zvířátky,Dětská,564,Plzeň,63,Muž,564
+ORD2182,182,46,1,2025-05-21,46,Krvavé léto,Detektivka,357,Plzeň,63,Muž,357
+ORD2182,182,62,1,2025-05-21,62,O statečném zajíčkovi,Dětská,155,Plzeň,63,Muž,155
+ORD2183,183,45,1,2025-05-18,45,Zlomené srdce,Román,258,Praha,55,Muž,258
+ORD2183,183,73,1,2025-05-18,73,Průvodce lesem,Učebnice,421,Praha,55,Muž,421
+ORD2183,183,65,1,2025-05-18,65,Jak pejsek zachránil svět,Dětská,446,Praha,55,Muž,446
+ORD2183,183,42,1,2025-05-18,42,Jak vyzrát na stres,Učebnice,564,Praha,55,Muž,564
+ORD2184,184,24,1,2025-05-13,24,Oheň a drak,Fantasy,198,Praha,62,Žena,198
+ORD2184,184,4,1,2025-05-13,4,Srdce v zimě,Román,541,Praha,62,Žena,541
+ORD2184,184,41,1,2025-05-13,41,Legenda o draku,Fantasy,456,Praha,62,Žena,456
+ORD2185,185,4,1,2025-05-20,4,Srdce v zimě,Román,541,Hradec Králové,61,Muž,541
+ORD2185,185,100,1,2025-05-20,100,Vražda na kolejích,Detektivka,263,Hradec Králové,61,Muž,263
+ORD2186,186,61,1,2025-05-09,61,Magie v žilách,Fantasy,365,Hradec Králové,54,Muž,365
+ORD2187,187,99,1,2025-05-17,99,Krvavé léto,Detektivka,258,Ostrava,52,Žena,258
+ORD2187,187,75,1,2025-05-17,75,Vrah beze jména,Detektivka,587,Ostrava,52,Žena,587
+ORD2187,187,30,1,2025-05-17,30,Pohádky pod peřinu,Dětská,259,Ostrava,52,Žena,259
+ORD2188,188,32,1,2025-05-06,32,Krvavé léto,Detektivka,254,Olomouc,41,Muž,254
+ORD2189,189,35,1,2025-05-22,35,Smrt v horách,Detektivka,254,Liberec,59,Žena,254
+ORD2189,189,69,1,2025-05-22,69,Nečekaný osud,Román,298,Liberec,59,Žena,298
+ORD2190,190,98,1,2025-05-27,98,Vrah beze jména,Detektivka,248,Praha,44,Žena,248
+ORD2191,191,74,1,2025-05-31,74,Kouzelná říše,Fantasy,198,Praha,45,Žena,198
+ORD2191,191,50,1,2025-05-31,50,Jak funguje internet,Učebnice,263,Praha,45,Žena,263
+ORD2192,192,23,1,2025-05-12,23,Nečekaný osud,Román,421,Olomouc,47,Muž,421
+ORD2192,192,31,1,2025-05-12,31,Draci severu,Fantasy,644,Olomouc,47,Muž,644
+ORD2193,193,95,1,2025-05-19,95,Jak vyzrát na stres,Učebnice,258,Plzeň,29,Žena,258
+ORD2193,193,90,1,2025-05-19,90,Děti z planety Alfa,Dětská,251,Plzeň,29,Žena,251
+ORD2193,193,46,1,2025-05-19,46,Krvavé léto,Detektivka,357,Plzeň,29,Žena,357
+ORD2194,194,4,1,2025-05-30,4,Srdce v zimě,Román,541,Liberec,69,Žena,541
+ORD2194,194,91,1,2025-05-30,91,Učebnice klidu,Učebnice,456,Liberec,69,Žena,456
+ORD2194,194,90,1,2025-05-30,90,Děti z planety Alfa,Dětská,251,Liberec,69,Žena,251
+ORD2194,194,46,1,2025-05-30,46,Krvavé léto,Detektivka,357,Liberec,69,Žena,357
+ORD2194,194,73,1,2025-05-30,73,Průvodce lesem,Učebnice,421,Liberec,69,Žena,421
+ORD2195,195,73,1,2025-05-19,73,Průvodce lesem,Učebnice,421,Plzeň,45,Žena,421
+ORD2195,195,25,1,2025-05-19,25,Magie v žilách,Fantasy,587,Plzeň,45,Žena,587
+ORD2196,196,70,1,2025-05-27,70,Jak ušetřit čas,Učebnice,251,Ostrava,33,Muž,251
+ORD2196,196,40,1,2025-05-27,40,Vražda na kolejích,Detektivka,251,Ostrava,33,Muž,251
+ORD2196,196,23,1,2025-05-27,23,Nečekaný osud,Román,421,Ostrava,33,Muž,421
+ORD2196,196,63,1,2025-05-27,63,Děti z planety Alfa,Dětská,684,Ostrava,33,Muž,684
+ORD2197,197,8,1,2025-05-02,8,Srdce v plamenech,Román,289,Ostrava,46,Muž,289
+ORD2198,198,29,1,2025-05-08,29,O statečném zajíčkovi,Dětská,354,Hradec Králové,47,Žena,354
+ORD2198,198,3,1,2025-05-08,3,Cesta za láskou,Román,289,Hradec Králové,47,Žena,289
+ORD2198,198,68,1,2025-05-08,68,Osudová přitažlivost,Román,298,Hradec Králové,47,Žena,298
+ORD2198,198,62,1,2025-05-08,62,O statečném zajíčkovi,Dětská,155,Hradec Králové,47,Žena,155
+ORD2198,198,1,1,2025-05-08,1,Krvavý měsíc,Detektivka,354,Hradec Králové,47,Žena,354
+ORD2199,199,26,1,2025-05-11,26,Píseň kouzel,Fantasy,555,Ostrava,19,Žena,555
+ORD2199,199,17,1,2025-05-11,17,Smrt v horách,Detektivka,365,Ostrava,19,Žena,365
+ORD2199,199,44,1,2025-05-11,44,Oheň a drak,Fantasy,659,Ostrava,19,Žena,659
+ORD2199,199,92,1,2025-05-11,92,Dobrodružství se zvířátky,Dětská,564,Ostrava,19,Žena,564
+ORD2199,199,23,1,2025-05-11,23,Nečekaný osud,Román,421,Ostrava,19,Žena,421
+ORD2200,200,8,1,2025-05-30,8,Srdce v plamenech,Román,289,Hradec Králové,38,Muž,289
+ORD2200,200,3,1,2025-05-30,3,Cesta za láskou,Román,289,Hradec Králové,38,Muž,289
+ORD2200,200,19,1,2025-05-30,19,Tajemství prstenu,Fantasy,298,Hradec Králové,38,Muž,298
+ORD2020,20,68,1,2025-05-19,68,Osudová přitažlivost,Román,298,Hradec Králové,24,Muž,298
+ORD2020,20,47,1,2025-05-19,47,Jak pochopit data,Učebnice,367,Hradec Králové,24,Muž,367
+ORD2152,152,85,1,2025-05-31,85,Legenda o draku,Fantasy,254,Hradec Králové,66,Žena,254
+ORD2152,152,51,1,2025-05-31,51,Píseň kouzel,Fantasy,354,Hradec Králové,66,Žena,354
+ORD2146,146,42,1,2025-05-19,42,Jak vyzrát na stres,Učebnice,564,Plzeň,62,Muž,564
+ORD2016,16,56,1,2025-05-05,56,Nečekaný osud,Román,487,Ostrava,45,Žena,487
+ORD2016,16,82,1,2025-05-05,82,Záhada nočního vlaku,Detektivka,254,Ostrava,45,Žena,254
+ORD2112,112,23,1,2025-05-31,23,Nečekaný osud,Román,421,Ostrava,36,Muž,421
+ORD2112,112,91,1,2025-05-31,91,Učebnice klidu,Učebnice,456,Ostrava,36,Muž,456
+ORD2112,112,72,1,2025-05-31,72,Legenda o draku,Fantasy,366,Ostrava,36,Muž,366
+ORD2034,34,29,1,2025-05-23,29,O statečném zajíčkovi,Dětská,354,Brno,30,Žena,354
+ORD2034,34,86,1,2025-05-23,86,Cesta za láskou,Román,300,Brno,30,Žena,300
+ORD2061,61,94,1,2025-05-19,94,Smrt v horách,Detektivka,659,Ostrava,36,Muž,659
+ORD2061,61,89,1,2025-05-19,89,Draci severu,Fantasy,374,Ostrava,36,Muž,374
+ORD2075,75,1,1,2025-05-10,1,Krvavý měsíc,Detektivka,354,Plzeň,26,Muž,354
+ORD2075,75,90,1,2025-05-10,90,Děti z planety Alfa,Dětská,251,Plzeň,26,Muž,251
+ORD2067,67,99,1,2025-05-31,99,Krvavé léto,Detektivka,258,Praha,18,Žena,258
+ORD2067,67,73,1,2025-05-31,73,Průvodce lesem,Učebnice,421,Praha,18,Žena,421
+ORD2067,67,5,1,2025-05-31,5,Kouzla a meče,Fantasy,398,Praha,18,Žena,398
+ORD2081,81,79,1,2025-05-06,79,Tajemství dětské knihy,Dětská,354,Brno,28,Muž,354
+ORD2101,101,64,1,2025-05-08,64,Noc v podzemí,Detektivka,355,Praha,51,Muž,355
+ORD2101,101,19,1,2025-05-08,19,Tajemství prstenu,Fantasy,298,Praha,51,Muž,298
+ORD2084,84,41,1,2025-05-11,41,Legenda o draku,Fantasy,456,Hradec Králové,60,Muž,456
+ORD2084,84,22,1,2025-05-11,22,Kouzelný autobus,Dětská,366,Hradec Králové,60,Muž,366
+ORD2082,82,86,1,2025-05-21,86,Cesta za láskou,Román,300,Plzeň,19,Muž,300
+ORD2082,82,82,1,2025-05-21,82,Záhada nočního vlaku,Detektivka,254,Plzeň,19,Muž,254
+ORD2082,82,94,1,2025-05-21,94,Smrt v horách,Detektivka,659,Plzeň,19,Muž,659
+ORD2116,116,34,1,2025-05-29,34,Temnota u jezera,Detektivka,398,Hradec Králové,68,Muž,398
+ORD2116,116,27,1,2025-05-29,27,Temnota u jezera,Detektivka,666,Hradec Králové,68,Muž,666
+ORD2070,70,14,1,2025-05-08,14,Kouzla a meče,Fantasy,355,Liberec,63,Žena,355
+ORD2060,60,57,1,2025-05-24,57,Pohádky pod peřinu,Dětská,234,Olomouc,53,Muž,234
+ORD2060,60,94,1,2025-05-24,94,Smrt v horách,Detektivka,659,Olomouc,53,Muž,659
+ORD2172,172,64,1,2025-05-14,64,Noc v podzemí,Detektivka,355,Hradec Králové,19,Muž,355
+ORD2172,172,49,1,2025-05-14,49,Dobrodružství se zvířátky,Dětská,258,Hradec Králové,19,Muž,258
+ORD2172,172,45,1,2025-05-14,45,Zlomené srdce,Román,258,Hradec Králové,19,Muž,258
+ORD2052,52,62,1,2025-05-18,62,O statečném zajíčkovi,Dětská,155,Liberec,34,Muž,155
+ORD2052,52,74,1,2025-05-18,74,Kouzelná říše,Fantasy,198,Liberec,34,Muž,198
+ORD2035,35,10,1,2025-05-21,10,Jak vyzrát na stres,Učebnice,698,Brno,21,Muž,698
+ORD2035,35,5,1,2025-05-21,5,Kouzla a meče,Fantasy,398,Brno,21,Muž,398
+ORD2150,150,14,1,2025-05-10,14,Kouzla a meče,Fantasy,355,Praha,31,Žena,355
+ORD2150,150,10,1,2025-05-10,10,Jak vyzrát na stres,Učebnice,698,Praha,31,Žena,698
+ORD2150,150,44,1,2025-05-10,44,Oheň a drak,Fantasy,659,Praha,31,Žena,659
+ORD2028,28,10,1,2025-05-06,10,Jak vyzrát na stres,Učebnice,698,Brno,44,Žena,698
+ORD2040,40,79,1,2025-05-18,79,Tajemství dětské knihy,Dětská,354,Hradec Králové,29,Muž,354
+ORD2171,171,56,1,2025-05-29,56,Nečekaný osud,Román,487,Hradec Králové,59,Muž,487
+ORD2171,171,84,1,2025-05-29,84,Stín draka,Fantasy,398,Hradec Králové,59,Muž,398
+ORD2171,171,22,1,2025-05-29,22,Kouzelný autobus,Dětská,366,Hradec Králové,59,Muž,366
+ORD2043,43,13,1,2025-05-20,13,Tajemství dětské knihy,Dětská,684,Liberec,56,Muž,684
+ORD2159,159,53,1,2025-05-11,53,Oheň a drak,Fantasy,289,Olomouc,28,Žena,289
+ORD2159,159,90,1,2025-05-11,90,Děti z planety Alfa,Dětská,251,Olomouc,28,Žena,251
+ORD2120,120,37,1,2025-05-18,37,Létající kolo,Dětská,291,Olomouc,37,Muž,291
+ORD2163,163,51,1,2025-05-10,51,Píseň kouzel,Fantasy,354,Brno,47,Muž,354
+ORD2105,105,20,1,2025-05-19,20,Kouzelná říše,Fantasy,251,Liberec,37,Žena,251
+ORD2105,105,7,1,2025-05-19,7,Láska na druhý pokus,Román,234,Liberec,37,Žena,234
+ORD2031,31,38,1,2025-05-12,38,Kouzelná říše,Fantasy,398,Praha,42,Žena,398
+ORD2031,31,85,1,2025-05-12,85,Legenda o draku,Fantasy,254,Praha,42,Žena,254
+ORD2138,138,13,1,2025-05-21,13,Tajemství dětské knihy,Dětská,684,Plzeň,34,Muž,684
+ORD2138,138,4,1,2025-05-21,4,Srdce v zimě,Román,541,Plzeň,34,Muž,541
+ORD2092,92,11,1,2025-05-07,11,Nečekaný osud,Román,365,Ostrava,59,Žena,365
+ORD2092,92,61,1,2025-05-07,61,Magie v žilách,Fantasy,365,Ostrava,59,Žena,365
+ORD2054,54,51,1,2025-05-28,51,Píseň kouzel,Fantasy,354,Ostrava,36,Muž,354
+ORD2054,54,61,1,2025-05-28,61,Magie v žilách,Fantasy,365,Ostrava,36,Muž,365
+ORD2148,148,70,1,2025-05-16,70,Jak ušetřit čas,Učebnice,251,Plzeň,44,Žena,251
+ORD2148,148,50,1,2025-05-16,50,Jak funguje internet,Učebnice,263,Plzeň,44,Žena,263
+ORD2079,79,48,1,2025-05-06,48,Láska na druhý pokus,Román,248,Hradec Králové,53,Žena,248
+ORD2079,79,24,1,2025-05-06,24,Oheň a drak,Fantasy,198,Hradec Králové,53,Žena,198
+ORD2079,79,58,1,2025-05-06,58,Učebnice empatie,Učebnice,289,Hradec Králové,53,Žena,289
+ORD2079,79,6,1,2025-05-06,6,Temnota u jezera,Detektivka,487,Hradec Králové,53,Žena,487
+ORD2119,119,29,1,2025-05-09,29,O statečném zajíčkovi,Dětská,354,Praha,70,Muž,354
+ORD2119,119,35,1,2025-05-09,35,Smrt v horách,Detektivka,254,Praha,70,Muž,254
+ORD2119,119,73,1,2025-05-09,73,Průvodce lesem,Učebnice,421,Praha,70,Muž,421
+ORD2068,68,86,1,2025-05-02,86,Cesta za láskou,Román,300,Hradec Králové,26,Žena,300
+ORD2068,68,13,1,2025-05-02,13,Tajemství dětské knihy,Dětská,684,Hradec Králové,26,Žena,684
+ORD2068,68,11,1,2025-05-02,11,Nečekaný osud,Román,365,Hradec Králové,26,Žena,365
+ORD2068,68,45,1,2025-05-02,45,Zlomené srdce,Román,258,Hradec Králové,26,Žena,258
+ORD2144,144,97,1,2025-05-26,97,Malý drak a moře,Dětská,367,Ostrava,52,Muž,367
+ORD2024,24,50,1,2025-05-19,50,Jak funguje internet,Učebnice,263,Hradec Králové,22,Žena,263
+ORD2024,24,67,1,2025-05-19,67,Jak přežít pondělí,Učebnice,365,Hradec Králové,22,Žena,365
+ORD2024,24,54,1,2025-05-19,54,Draci severu,Fantasy,541,Hradec Králové,22,Žena,541
+ORD2041,41,61,1,2025-05-31,61,Magie v žilách,Fantasy,365,Liberec,22,Muž,365
+ORD2041,41,74,1,2025-05-31,74,Kouzelná říše,Fantasy,198,Liberec,22,Muž,198
+ORD2041,41,31,1,2025-05-31,31,Draci severu,Fantasy,644,Liberec,22,Muž,644
+ORD2078,78,92,1,2025-05-16,92,Dobrodružství se zvířátky,Dětská,564,Olomouc,24,Žena,564
+ORD2078,78,5,1,2025-05-16,5,Kouzla a meče,Fantasy,398,Olomouc,24,Žena,398
+ORD2011,11,74,1,2025-05-17,74,Kouzelná říše,Fantasy,198,Olomouc,49,Muž,198
+ORD2011,11,87,1,2025-05-17,87,Osudová přitažlivost,Román,291,Olomouc,49,Muž,291
