@@ -9,7 +9,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px  
 from io import BytesIO
-from xhtml2pdf import pisa
 import datetime
 
 # --- HLAVIČKA APPKY ---
@@ -238,4 +237,5 @@ st.download_button(
     data=pdf_soubor,
     file_name=f"report_{vybrany_mesic}.pdf",
     mime="application/pdf"
+
 )
